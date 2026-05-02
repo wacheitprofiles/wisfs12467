@@ -1,0 +1,104 @@
+{
+  "username": "wacheit",
+  "bio": "wache stack",
+  "avatar": 2,
+  "isPaid": 0,
+  "createdAt": "2026-01-01T05:00:00.245Z",
+  "timezone": "Asia/Calcutta",
+  "region": "Asia/Calcutta",
+  "totalFocusMinutes": 4634,
+  "activeDays": 14,
+  "todayMinutes": 561,
+  "todayEditor": "Antigravity",
+  "todayLanguages": [
+    {
+      "name": "C++",
+      "totalSeconds": 11208
+    },
+    {
+      "name": "CSS",
+      "totalSeconds": 9179
+    },
+    {
+      "name": "javascript",
+      "totalSeconds": 5460
+    },
+    {
+      "name": "Go",
+      "totalSeconds": 3011
+    },
+    {
+      "name": "TypeScript",
+      "totalSeconds": 1178
+    }
+  ],
+  "last7DaysAverage": 414,
+  "percentChange": 36,
+  "last54Days": [
+    {
+      "date": "2026-04-18",
+      "minutes": 70
+    },
+    {
+      "date": "2026-04-19",
+      "minutes": 346
+    },
+    {
+      "date": "2026-04-20",
+      "minutes": 159
+    },
+    {
+      "date": "2026-04-21",
+      "minutes": 22
+    },
+    {
+      "date": "2026-04-22",
+      "minutes": 456
+    },
+    {
+      "date": "2026-04-23",
+      "minutes": 119
+    },
+    {
+      "date": "2026-04-24",
+      "minutes": 535
+    },
+    {
+      "date": "2026-04-25",
+      "minutes": 325
+    },
+    {
+      "date": "2026-04-26",
+      "minutes": 335
+    },
+    {
+      "date": "2026-04-27",
+      "minutes": 439
+    },
+    {
+      "date": "2026-04-28",
+      "minutes": 196
+    },
+    {
+      "date": "2026-04-29",
+      "minutes": 527
+    },
+    {
+      "date": "2026-04-30",
+      "minutes": 544
+    },
+    {
+      "date": "2026-05-01",
+      "minutes": 561
+    }
+  ],
+  "consistencyScore": null,
+  "currentRankIndex": null,
+  "currentRank": null,
+  "nextRank": null,
+  "rankProgress": null,
+  "topLanguages": [],
+  "allTimeTotalMinutes": null,
+  "allTimeActiveDays": null,
+  "generatedAt": "2026-04-30T20:05:21.250Z"
+}
