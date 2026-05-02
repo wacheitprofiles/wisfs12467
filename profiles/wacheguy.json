@@ -267,6 +267,14 @@
   "rankProgress": 82,
   "topLanguages": [
     {
+      "name": "Markdown",
+      "totalSeconds": 128314
+    },
+    {
+      "name": "TypeScript",
+      "totalSeconds": 124442
+    },
+    {
       "name": "JavaScript",
       "totalSeconds": 124052
     },
@@ -277,19 +285,11 @@
     {
       "name": "javascriptreact",
       "totalSeconds": 96224
-    },
-    {
-      "name": "Python",
-      "totalSeconds": 68503
-    },
-    {
-      "name": "Java",
-      "totalSeconds": 66323
     }
   ],
   "allTimeTotalMinutes": 30653,
   "allTimeActiveDays": 114,
-  "generatedAt": "2026-05-02T12:15:17.178Z",
+  "generatedAt": "2026-05-02T12:20:19.817Z",
   "views": 28,
   "userId": "696b854d96fb46e630ea609b"
 }
