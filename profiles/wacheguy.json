@@ -6,34 +6,34 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 15584,
+  "totalFocusMinutes": 15618,
   "activeDays": 54,
-  "todayMinutes": 119,
-  "todayEditor": "gemini-cli",
+  "todayMinutes": 153,
+  "todayEditor": "gemini-cli-v1.1.25",
   "todayLanguages": [
+    {
+      "name": "JavaScript",
+      "totalSeconds": 3468
+    },
     {
       "name": "tldraw.com",
       "totalSeconds": 2956
     },
     {
-      "name": "JavaScript",
-      "totalSeconds": 2726
+      "name": "Other",
+      "totalSeconds": 1676
     },
     {
-      "name": "Other",
-      "totalSeconds": 1034
+      "name": "javascriptreact",
+      "totalSeconds": 660
     },
     {
       "name": "JSON",
       "totalSeconds": 396
-    },
-    {
-      "name": "HTML",
-      "totalSeconds": 61
     }
   ],
   "last7DaysAverage": 506,
-  "percentChange": -76,
+  "percentChange": -70,
   "last54Days": [
     {
       "date": "2026-03-11",
@@ -249,7 +249,7 @@
     },
     {
       "date": "2026-05-03",
-      "minutes": 119
+      "minutes": 153
     }
   ],
   "consistencyScore": 100,
@@ -264,11 +264,11 @@
     "sub": "III",
     "threshold": 16200
   },
-  "rankProgress": 79,
+  "rankProgress": 81,
   "topLanguages": [
     {
       "name": "JavaScript",
-      "totalSeconds": 126948
+      "totalSeconds": 127690
     },
     {
       "name": "TypeScript",
@@ -284,12 +284,12 @@
     },
     {
       "name": "javascriptreact",
-      "totalSeconds": 95624
+      "totalSeconds": 96284
     }
   ],
-  "allTimeTotalMinutes": 30852,
+  "allTimeTotalMinutes": 30886,
   "allTimeActiveDays": 115,
-  "generatedAt": "2026-05-03T09:15:17.822Z",
+  "generatedAt": "2026-05-03T09:30:29.677Z",
   "views": 32,
   "userId": "696b854d96fb46e630ea609b"
 }
