@@ -6,39 +6,14 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 15811,
-  "activeDays": 54,
-  "todayMinutes": 346,
-  "todayEditor": "chrome-extension",
-  "todayLanguages": [
-    {
-      "name": "JavaScript",
-      "totalSeconds": 10722
-    },
-    {
-      "name": "Other",
-      "totalSeconds": 4515
-    },
-    {
-      "name": "tldraw.com",
-      "totalSeconds": 3614
-    },
-    {
-      "name": "Python",
-      "totalSeconds": 881
-    },
-    {
-      "name": "javascriptreact",
-      "totalSeconds": 660
-    }
-  ],
-  "last7DaysAverage": 506,
-  "percentChange": -32,
+  "totalFocusMinutes": 15714,
+  "activeDays": 53,
+  "todayMinutes": 0,
+  "todayEditor": null,
+  "todayLanguages": [],
+  "last7DaysAverage": 508,
+  "percentChange": -100,
   "last54Days": [
-    {
-      "date": "2026-03-11",
-      "minutes": 97
-    },
     {
       "date": "2026-03-12",
       "minutes": 321
@@ -250,9 +225,13 @@
     {
       "date": "2026-05-03",
       "minutes": 346
+    },
+    {
+      "date": "2026-05-04",
+      "minutes": 0
     }
   ],
-  "consistencyScore": 100,
+  "consistencyScore": 98,
   "currentRankIndex": 13,
   "currentRank": {
     "name": "ENTROPY",
@@ -264,32 +243,32 @@
     "sub": "III",
     "threshold": 16200
   },
-  "rankProgress": 87,
+  "rankProgress": 84,
   "topLanguages": [
     {
       "name": "JavaScript",
-      "totalSeconds": 134944
+      "totalSeconds": 133042
     },
     {
       "name": "TypeScript",
-      "totalSeconds": 124219
+      "totalSeconds": 124100
     },
     {
       "name": "Markdown",
-      "totalSeconds": 118884
+      "totalSeconds": 118535
     },
     {
       "name": "CSS",
-      "totalSeconds": 103588
+      "totalSeconds": 102269
     },
     {
       "name": "javascriptreact",
-      "totalSeconds": 96284
+      "totalSeconds": 95251
     }
   ],
   "allTimeTotalMinutes": 31079,
   "allTimeActiveDays": 115,
-  "generatedAt": "2026-05-03T18:15:17.575Z",
+  "generatedAt": "2026-05-03T18:30:30.577Z",
   "views": 32,
   "userId": "696b854d96fb46e630ea609b"
 }
