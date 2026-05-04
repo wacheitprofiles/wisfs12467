@@ -6,10 +6,10 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 15733,
+  "totalFocusMinutes": 15735,
   "activeDays": 54,
-  "todayMinutes": 19,
-  "todayEditor": "Gemini CLI",
+  "todayMinutes": 21,
+  "todayEditor": "Antigravity",
   "todayLanguages": [
     {
       "name": "Other",
@@ -24,12 +24,12 @@
       "totalSeconds": 120
     },
     {
-      "name": "JavaScript React",
-      "totalSeconds": 61
+      "name": "unknown",
+      "totalSeconds": 120
     },
     {
-      "name": "JavaScript",
-      "totalSeconds": 1
+      "name": "JavaScript React",
+      "totalSeconds": 61
     }
   ],
   "last7DaysAverage": 508,
@@ -249,7 +249,7 @@
     },
     {
       "date": "2026-05-04",
-      "minutes": 19
+      "minutes": 21
     }
   ],
   "consistencyScore": 100,
@@ -264,7 +264,7 @@
     "sub": "III",
     "threshold": 16200
   },
-  "rankProgress": 84,
+  "rankProgress": 85,
   "topLanguages": [
     {
       "name": "JavaScript",
@@ -287,9 +287,9 @@
       "totalSeconds": 95371
     }
   ],
-  "allTimeTotalMinutes": 31099,
+  "allTimeTotalMinutes": 31101,
   "allTimeActiveDays": 116,
-  "generatedAt": "2026-05-04T15:30:32.257Z",
+  "generatedAt": "2026-05-04T16:00:44.873Z",
   "views": 32,
   "userId": "696b854d96fb46e630ea609b"
 }
