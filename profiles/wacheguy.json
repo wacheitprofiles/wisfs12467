@@ -6,38 +6,14 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 15754,
-  "activeDays": 54,
-  "todayMinutes": 40,
-  "todayLanguages": [
-    {
-      "name": "javascript",
-      "totalSeconds": 1920
-    },
-    {
-      "name": "JavaScript",
-      "totalSeconds": 394
-    },
-    {
-      "name": "javascriptreact",
-      "totalSeconds": 60
-    },
-    {
-      "name": "JavaScript React",
-      "totalSeconds": 20
-    },
-    {
-      "name": "Shell",
-      "totalSeconds": 15
-    }
-  ],
-  "last7DaysAverage": 508,
-  "percentChange": -92,
+  "totalFocusMinutes": 15449,
+  "activeDays": 53,
+  "todayMinutes": 0,
+  "todayEditor": null,
+  "todayLanguages": [],
+  "last7DaysAverage": 453,
+  "percentChange": -100,
   "last54Days": [
-    {
-      "date": "2026-03-12",
-      "minutes": 321
-    },
     {
       "date": "2026-03-13",
       "minutes": 173
@@ -248,10 +224,14 @@
     },
     {
       "date": "2026-05-04",
-      "minutes": 40
+      "minutes": 56
+    },
+    {
+      "date": "2026-05-05",
+      "minutes": 0
     }
   ],
-  "consistencyScore": 100,
+  "consistencyScore": 98,
   "currentRankIndex": 13,
   "currentRank": {
     "name": "ENTROPY",
@@ -263,32 +243,32 @@
     "sub": "III",
     "threshold": 16200
   },
-  "rankProgress": 85,
+  "rankProgress": 75,
   "topLanguages": [
     {
       "name": "JavaScript",
-      "totalSeconds": 133436
+      "totalSeconds": 132314
     },
     {
       "name": "TypeScript",
-      "totalSeconds": 124100
+      "totalSeconds": 119886
     },
     {
       "name": "Markdown",
-      "totalSeconds": 118535
+      "totalSeconds": 117306
     },
     {
       "name": "CSS",
-      "totalSeconds": 102269
+      "totalSeconds": 98188
     },
     {
       "name": "javascriptreact",
-      "totalSeconds": 95311
+      "totalSeconds": 95551
     }
   ],
-  "allTimeTotalMinutes": 31120,
+  "allTimeTotalMinutes": 31136,
   "allTimeActiveDays": 116,
-  "generatedAt": "2026-05-04T18:15:19.261Z",
+  "generatedAt": "2026-05-04T18:30:31.621Z",
   "views": 32,
   "userId": "696b854d96fb46e630ea609b"
 }
