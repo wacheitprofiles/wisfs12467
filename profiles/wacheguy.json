@@ -6,13 +6,21 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 15449,
-  "activeDays": 53,
-  "todayMinutes": 0,
-  "todayEditor": null,
-  "todayLanguages": [],
+  "totalFocusMinutes": 15458,
+  "activeDays": 54,
+  "todayMinutes": 9,
+  "todayLanguages": [
+    {
+      "name": "javascript",
+      "totalSeconds": 420
+    },
+    {
+      "name": "tldraw.com",
+      "totalSeconds": 179
+    }
+  ],
   "last7DaysAverage": 453,
-  "percentChange": -100,
+  "percentChange": -98,
   "last54Days": [
     {
       "date": "2026-03-13",
@@ -228,10 +236,10 @@
     },
     {
       "date": "2026-05-05",
-      "minutes": 0
+      "minutes": 9
     }
   ],
-  "consistencyScore": 98,
+  "consistencyScore": 100,
   "currentRankIndex": 13,
   "currentRank": {
     "name": "ENTROPY",
@@ -266,9 +274,9 @@
       "totalSeconds": 95551
     }
   ],
-  "allTimeTotalMinutes": 31136,
-  "allTimeActiveDays": 116,
-  "generatedAt": "2026-05-05T02:30:29.286Z",
+  "allTimeTotalMinutes": 31146,
+  "allTimeActiveDays": 117,
+  "generatedAt": "2026-05-05T02:45:18.477Z",
   "views": 32,
   "userId": "696b854d96fb46e630ea609b"
 }
