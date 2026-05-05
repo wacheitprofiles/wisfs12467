@@ -6,17 +6,17 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 15586,
+  "totalFocusMinutes": 15593,
   "activeDays": 54,
-  "todayMinutes": 137,
+  "todayMinutes": 144,
   "todayLanguages": [
+    {
+      "name": "unknown",
+      "totalSeconds": 2603
+    },
     {
       "name": "javascriptreact",
       "totalSeconds": 2357
-    },
-    {
-      "name": "unknown",
-      "totalSeconds": 2141
     },
     {
       "name": "tldraw.com",
@@ -28,7 +28,7 @@
     }
   ],
   "last7DaysAverage": 453,
-  "percentChange": -70,
+  "percentChange": -68,
   "last54Days": [
     {
       "date": "2026-03-13",
@@ -244,7 +244,7 @@
     },
     {
       "date": "2026-05-05",
-      "minutes": 137
+      "minutes": 144
     }
   ],
   "consistencyScore": 100,
@@ -282,9 +282,9 @@
       "totalSeconds": 97908
     }
   ],
-  "allTimeTotalMinutes": 31273,
+  "allTimeTotalMinutes": 31281,
   "allTimeActiveDays": 117,
-  "generatedAt": "2026-05-05T07:15:17.564Z",
+  "generatedAt": "2026-05-05T07:30:31.856Z",
   "views": 32,
   "userId": "696b854d96fb46e630ea609b"
 }
