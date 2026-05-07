@@ -9,11 +9,11 @@
   "totalFocusMinutes": 16081,
   "activeDays": 54,
   "todayMinutes": 53,
-  "todayEditor": "VS Code",
+  "todayEditor": "Antigravity",
   "todayLanguages": [
     {
       "name": "javascript",
-      "totalSeconds": 1483
+      "totalSeconds": 1484
     },
     {
       "name": "markdown",
@@ -281,7 +281,7 @@
   ],
   "allTimeTotalMinutes": 32063,
   "allTimeActiveDays": 119,
-  "generatedAt": "2026-05-07T11:30:31.956Z",
+  "generatedAt": "2026-05-07T11:45:17.147Z",
   "views": 33,
   "userId": "696b854d96fb46e630ea609b"
 }
