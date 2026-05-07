@@ -6,9 +6,9 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 16028,
-  "activeDays": 53,
-  "todayMinutes": 0,
+  "totalFocusMinutes": 16029,
+  "activeDays": 54,
+  "todayMinutes": 1,
   "todayLanguages": [],
   "last7DaysAverage": 474,
   "percentChange": -100,
@@ -227,10 +227,10 @@
     },
     {
       "date": "2026-05-07",
-      "minutes": 0
+      "minutes": 1
     }
   ],
-  "consistencyScore": 98,
+  "consistencyScore": 100,
   "currentRankIndex": 13,
   "currentRank": {
     "name": "ENTROPY",
@@ -265,9 +265,9 @@
       "totalSeconds": 96835
     }
   ],
-  "allTimeTotalMinutes": 32009,
+  "allTimeTotalMinutes": 32010,
   "allTimeActiveDays": 119,
-  "generatedAt": "2026-05-07T05:15:17.793Z",
+  "generatedAt": "2026-05-07T05:30:31.046Z",
   "views": 33,
   "userId": "696b854d96fb46e630ea609b"
 }
