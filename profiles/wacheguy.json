@@ -9,7 +9,6 @@
   "totalFocusMinutes": 15731,
   "activeDays": 53,
   "todayMinutes": 0,
-  "todayEditor": null,
   "todayLanguages": [],
   "last7DaysAverage": 412,
   "percentChange": -100,
@@ -267,8 +266,8 @@
     }
   ],
   "allTimeTotalMinutes": 32119,
-  "allTimeActiveDays": 119,
-  "generatedAt": "2026-05-07T18:45:18.785Z",
+  "allTimeActiveDays": 120,
+  "generatedAt": "2026-05-07T19:00:42.951Z",
   "views": 33,
   "userId": "696b854d96fb46e630ea609b"
 }
