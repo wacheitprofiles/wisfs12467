@@ -6,31 +6,13 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Kolkata",
   "region": "Asia/Kolkata",
-  "totalFocusMinutes": 15768,
-  "activeDays": 54,
-  "todayMinutes": 206,
-  "todayEditor": "Antigravity",
-  "todayLanguages": [
-    {
-      "name": "javascript react",
-      "totalSeconds": 9049
-    },
-    {
-      "name": "javascript",
-      "totalSeconds": 2859
-    },
-    {
-      "name": "json",
-      "totalSeconds": 2
-    }
-  ],
-  "last7DaysAverage": 279,
-  "percentChange": -26,
+  "totalFocusMinutes": 15694,
+  "activeDays": 53,
+  "todayMinutes": 0,
+  "todayLanguages": [],
+  "last7DaysAverage": 238,
+  "percentChange": -100,
   "last54Days": [
-    {
-      "date": "2026-03-17",
-      "minutes": 91
-    },
     {
       "date": "2026-03-18",
       "minutes": 303
@@ -241,10 +223,14 @@
     },
     {
       "date": "2026-05-09",
-      "minutes": 206
+      "minutes": 223
+    },
+    {
+      "date": "2026-05-10",
+      "minutes": 0
     }
   ],
-  "consistencyScore": 100,
+  "consistencyScore": 98,
   "currentRankIndex": 13,
   "currentRank": {
     "name": "ENTROPY",
@@ -256,7 +242,7 @@
     "sub": "III",
     "threshold": 16200
   },
-  "rankProgress": 86,
+  "rankProgress": 83,
   "topLanguages": [
     {
       "name": "JavaScript",
@@ -264,11 +250,11 @@
     },
     {
       "name": "TypeScript",
-      "totalSeconds": 116635
+      "totalSeconds": 114631
     },
     {
       "name": "Markdown",
-      "totalSeconds": 107505
+      "totalSeconds": 107280
     },
     {
       "name": "javascriptreact",
@@ -276,12 +262,12 @@
     },
     {
       "name": "CSS",
-      "totalSeconds": 88667
+      "totalSeconds": 87404
     }
   ],
-  "allTimeTotalMinutes": 32388,
-  "allTimeActiveDays": 121,
-  "generatedAt": "2026-05-09T18:15:17.741Z",
+  "allTimeTotalMinutes": 32405,
+  "allTimeActiveDays": 122,
+  "generatedAt": "2026-05-09T18:30:32.334Z",
   "views": 34,
   "userId": "696b854d96fb46e630ea609b"
 }
