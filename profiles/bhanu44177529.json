@@ -1,0 +1,297 @@
+{
+  "username": "Bhanu4417",
+  "bio": "Consistency Builded Me",
+  "avatar": 2,
+  "isPaid": 1,
+  "createdAt": "2026-01-01T05:00:00.245Z",
+  "timezone": "Asia/Calcutta",
+  "region": "Asia/Calcutta",
+  "totalFocusMinutes": 15743,
+  "activeDays": 54,
+  "todayMinutes": 49,
+  "todayEditor": "Antigravity",
+  "todayEditors": [
+    "Gemini CLI",
+    "Claude CLI",
+    "Codex CLI",
+    "Antigravity",
+    "Cursor",
+    "VS Code",
+    "chrome-extension",
+    "lovable.dev"
+  ],
+  "todayLanguages": [
+    {
+      "name": "javascript react",
+      "totalSeconds": 1849
+    },
+    {
+      "name": "javascript",
+      "totalSeconds": 427
+    },
+    {
+      "name": "json",
+      "totalSeconds": 1
+    }
+  ],
+  "last7DaysAverage": 238,
+  "percentChange": -79,
+  "last54Days": [
+    {
+      "date": "2026-03-18",
+      "minutes": 303
+    },
+    {
+      "date": "2026-03-19",
+      "minutes": 508
+    },
+    {
+      "date": "2026-03-20",
+      "minutes": 436
+    },
+    {
+      "date": "2026-03-21",
+      "minutes": 231
+    },
+    {
+      "date": "2026-03-22",
+      "minutes": 268
+    },
+    {
+      "date": "2026-03-23",
+      "minutes": 141
+    },
+    {
+      "date": "2026-03-24",
+      "minutes": 443
+    },
+    {
+      "date": "2026-03-25",
+      "minutes": 332
+    },
+    {
+      "date": "2026-03-26",
+      "minutes": 381
+    },
+    {
+      "date": "2026-03-27",
+      "minutes": 171
+    },
+    {
+      "date": "2026-03-28",
+      "minutes": 198
+    },
+    {
+      "date": "2026-03-29",
+      "minutes": 266
+    },
+    {
+      "date": "2026-03-30",
+      "minutes": 380
+    },
+    {
+      "date": "2026-03-31",
+      "minutes": 240
+    },
+    {
+      "date": "2026-04-01",
+      "minutes": 230
+    },
+    {
+      "date": "2026-04-02",
+      "minutes": 550
+    },
+    {
+      "date": "2026-04-03",
+      "minutes": 436
+    },
+    {
+      "date": "2026-04-04",
+      "minutes": 135
+    },
+    {
+      "date": "2026-04-05",
+      "minutes": 219
+    },
+    {
+      "date": "2026-04-06",
+      "minutes": 116
+    },
+    {
+      "date": "2026-04-07",
+      "minutes": 334
+    },
+    {
+      "date": "2026-04-08",
+      "minutes": 99
+    },
+    {
+      "date": "2026-04-09",
+      "minutes": 257
+    },
+    {
+      "date": "2026-04-10",
+      "minutes": 474
+    },
+    {
+      "date": "2026-04-11",
+      "minutes": 205
+    },
+    {
+      "date": "2026-04-12",
+      "minutes": 254
+    },
+    {
+      "date": "2026-04-13",
+      "minutes": 111
+    },
+    {
+      "date": "2026-04-14",
+      "minutes": 253
+    },
+    {
+      "date": "2026-04-15",
+      "minutes": 39
+    },
+    {
+      "date": "2026-04-16",
+      "minutes": 225
+    },
+    {
+      "date": "2026-04-17",
+      "minutes": 214
+    },
+    {
+      "date": "2026-04-18",
+      "minutes": 70
+    },
+    {
+      "date": "2026-04-19",
+      "minutes": 346
+    },
+    {
+      "date": "2026-04-20",
+      "minutes": 159
+    },
+    {
+      "date": "2026-04-21",
+      "minutes": 22
+    },
+    {
+      "date": "2026-04-22",
+      "minutes": 456
+    },
+    {
+      "date": "2026-04-23",
+      "minutes": 119
+    },
+    {
+      "date": "2026-04-24",
+      "minutes": 535
+    },
+    {
+      "date": "2026-04-25",
+      "minutes": 325
+    },
+    {
+      "date": "2026-04-26",
+      "minutes": 335
+    },
+    {
+      "date": "2026-04-27",
+      "minutes": 439
+    },
+    {
+      "date": "2026-04-28",
+      "minutes": 196
+    },
+    {
+      "date": "2026-04-29",
+      "minutes": 527
+    },
+    {
+      "date": "2026-04-30",
+      "minutes": 544
+    },
+    {
+      "date": "2026-05-01",
+      "minutes": 999
+    },
+    {
+      "date": "2026-05-02",
+      "minutes": 504
+    },
+    {
+      "date": "2026-05-03",
+      "minutes": 346
+    },
+    {
+      "date": "2026-05-04",
+      "minutes": 56
+    },
+    {
+      "date": "2026-05-05",
+      "minutes": 617
+    },
+    {
+      "date": "2026-05-06",
+      "minutes": 255
+    },
+    {
+      "date": "2026-05-07",
+      "minutes": 109
+    },
+    {
+      "date": "2026-05-08",
+      "minutes": 63
+    },
+    {
+      "date": "2026-05-09",
+      "minutes": 223
+    },
+    {
+      "date": "2026-05-10",
+      "minutes": 49
+    }
+  ],
+  "consistencyScore": 100,
+  "currentRankIndex": 13,
+  "currentRank": {
+    "name": "ENTROPY",
+    "sub": "II",
+    "threshold": 13200
+  },
+  "nextRank": {
+    "name": "ENTROPY",
+    "sub": "III",
+    "threshold": 16200
+  },
+  "rankProgress": 85,
+  "topLanguages": [
+    {
+      "name": "JavaScript",
+      "totalSeconds": 134255
+    },
+    {
+      "name": "TypeScript",
+      "totalSeconds": 114631
+    },
+    {
+      "name": "Markdown",
+      "totalSeconds": 107280
+    },
+    {
+      "name": "javascriptreact",
+      "totalSeconds": 101835
+    },
+    {
+      "name": "CSS",
+      "totalSeconds": 87404
+    }
+  ],
+  "allTimeTotalMinutes": 32454,
+  "allTimeActiveDays": 122,
+  "generatedAt": "2026-05-10T05:40:27.529Z",
+  "views": 34,
+  "userId": "696b854d96fb46e630ea609b"
+}
