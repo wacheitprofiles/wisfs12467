@@ -1,0 +1,95 @@
+{
+  "username": "kalkaji",
+  "bio": "Just a developer",
+  "avatar": 5,
+  "isPaid": 0,
+  "createdAt": "2026-05-05T07:40:00.689Z",
+  "timezone": "Asia/Calcutta",
+  "region": "Asia/Calcutta",
+  "totalFocusMinutes": 1733,
+  "activeDays": 6,
+  "todayMinutes": 24,
+  "todayEditor": "Antigravity",
+  "todayEditors": [
+    "Antigravity",
+    "chrome-extension",
+    "chatgpt.com"
+  ],
+  "todayLanguages": [
+    {
+      "name": "javascript react",
+      "totalSeconds": 1350
+    }
+  ],
+  "last7DaysAverage": 244,
+  "percentChange": -90,
+  "last54Days": [
+    {
+      "date": "2026-05-01",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-02",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-03",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-04",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-05",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-06",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-07",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-08",
+      "minutes": 11
+    },
+    {
+      "date": "2026-05-09",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-10",
+      "minutes": 17
+    },
+    {
+      "date": "2026-05-11",
+      "minutes": 389
+    },
+    {
+      "date": "2026-05-12",
+      "minutes": 412
+    },
+    {
+      "date": "2026-05-13",
+      "minutes": 880
+    },
+    {
+      "date": "2026-05-14",
+      "minutes": 24
+    }
+  ],
+  "consistencyScore": null,
+  "currentRankIndex": null,
+  "currentRank": null,
+  "nextRank": null,
+  "rankProgress": null,
+  "topLanguages": [],
+  "allTimeTotalMinutes": null,
+  "allTimeActiveDays": null,
+  "generatedAt": "2026-05-13T19:09:46.291Z",
+  "views": 1,
+  "userId": "69f99ed01e02448398f23dfc"
+}
