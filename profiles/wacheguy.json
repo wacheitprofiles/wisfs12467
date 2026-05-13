@@ -6,14 +6,21 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 14290,
-  "activeDays": 50,
-  "todayMinutes": 0,
-  "todayEditor": null,
-  "todayEditors": [],
-  "todayLanguages": [],
+  "totalFocusMinutes": 14298,
+  "activeDays": 51,
+  "todayMinutes": 8,
+  "todayEditor": "Antigravity",
+  "todayEditors": [
+    "Antigravity"
+  ],
+  "todayLanguages": [
+    {
+      "name": "javascript react",
+      "totalSeconds": 527
+    }
+  ],
   "last7DaysAverage": 67,
-  "percentChange": -100,
+  "percentChange": -88,
   "last54Days": [
     {
       "date": "2026-03-22",
@@ -229,10 +236,10 @@
     },
     {
       "date": "2026-05-14",
-      "minutes": 0
+      "minutes": 8
     }
   ],
-  "consistencyScore": 93,
+  "consistencyScore": 94,
   "currentRankIndex": 13,
   "currentRank": {
     "name": "ENTROPY",
@@ -244,7 +251,7 @@
     "sub": "III",
     "threshold": 16200
   },
-  "rankProgress": 36,
+  "rankProgress": 37,
   "topLanguages": [
     {
       "name": "JavaScript",
@@ -267,9 +274,9 @@
       "totalSeconds": 79237
     }
   ],
-  "allTimeTotalMinutes": 32479,
-  "allTimeActiveDays": 122,
-  "generatedAt": "2026-05-13T19:00:43.059Z",
+  "allTimeTotalMinutes": 32488,
+  "allTimeActiveDays": 123,
+  "generatedAt": "2026-05-13T19:15:18.408Z",
   "views": 34,
   "userId": "696b854d96fb46e630ea609b"
 }
