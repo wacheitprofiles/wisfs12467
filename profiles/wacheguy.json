@@ -11,7 +11,9 @@
   "todayMinutes": 5,
   "todayEditor": "Antigravity",
   "todayEditors": [
-    "Antigravity"
+    "Antigravity",
+    "chrome-extension",
+    "chatgpt.com"
   ],
   "todayLanguages": [
     {
@@ -87,7 +89,7 @@
   "topLanguages": [],
   "allTimeTotalMinutes": null,
   "allTimeActiveDays": null,
-  "generatedAt": "2026-05-14T18:45:17.852Z",
+  "generatedAt": "2026-05-14T19:00:42.476Z",
   "views": 34,
   "userId": "696b854d96fb46e630ea609b"
 }
