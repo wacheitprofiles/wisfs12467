@@ -6,37 +6,15 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 3703,
-  "activeDays": 11,
-  "todayMinutes": 457,
-  "todayEditor": "Antigravity",
-  "todayEditors": [
-    "Antigravity",
-    "Gemini CLI",
-    "chrome-extension",
-    "chatgpt.com"
-  ],
-  "todayLanguages": [
-    {
-      "name": "javascript react",
-      "totalSeconds": 22776
-    },
-    {
-      "name": "dotenv",
-      "totalSeconds": 264
-    },
-    {
-      "name": "javascript",
-      "totalSeconds": 70
-    }
-  ],
-  "last7DaysAverage": 67,
-  "percentChange": 582,
+  "totalFocusMinutes": 2708,
+  "activeDays": 10,
+  "todayMinutes": 0,
+  "todayEditor": null,
+  "todayEditors": [],
+  "todayLanguages": [],
+  "last7DaysAverage": 117,
+  "percentChange": -100,
   "last54Days": [
-    {
-      "date": "2026-05-01",
-      "minutes": 999
-    },
     {
       "date": "2026-05-02",
       "minutes": 504
@@ -87,7 +65,11 @@
     },
     {
       "date": "2026-05-14",
-      "minutes": 457
+      "minutes": 461
+    },
+    {
+      "date": "2026-05-15",
+      "minutes": 0
     }
   ],
   "consistencyScore": null,
@@ -98,7 +80,7 @@
   "topLanguages": [],
   "allTimeTotalMinutes": null,
   "allTimeActiveDays": null,
-  "generatedAt": "2026-05-14T18:15:18.347Z",
+  "generatedAt": "2026-05-14T18:30:31.267Z",
   "views": 34,
   "userId": "696b854d96fb46e630ea609b"
 }
