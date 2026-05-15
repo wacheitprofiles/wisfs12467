@@ -1,0 +1,95 @@
+{
+  "username": "Bhanu4417",
+  "bio": "Consistency Builded Me",
+  "avatar": 2,
+  "isPaid": 0,
+  "createdAt": "2026-01-01T05:00:00.245Z",
+  "timezone": "Asia/Calcutta",
+  "region": "Asia/Calcutta",
+  "totalFocusMinutes": 2805,
+  "activeDays": 11,
+  "todayMinutes": 97,
+  "todayEditor": "Antigravity",
+  "todayEditors": [
+    "Antigravity",
+    "chrome-extension",
+    "chatgpt.com"
+  ],
+  "todayLanguages": [
+    {
+      "name": "javascript react",
+      "totalSeconds": 5049
+    }
+  ],
+  "last7DaysAverage": 117,
+  "percentChange": -17,
+  "last54Days": [
+    {
+      "date": "2026-05-02",
+      "minutes": 504
+    },
+    {
+      "date": "2026-05-03",
+      "minutes": 346
+    },
+    {
+      "date": "2026-05-04",
+      "minutes": 56
+    },
+    {
+      "date": "2026-05-05",
+      "minutes": 617
+    },
+    {
+      "date": "2026-05-06",
+      "minutes": 255
+    },
+    {
+      "date": "2026-05-07",
+      "minutes": 109
+    },
+    {
+      "date": "2026-05-08",
+      "minutes": 63
+    },
+    {
+      "date": "2026-05-09",
+      "minutes": 223
+    },
+    {
+      "date": "2026-05-10",
+      "minutes": 74
+    },
+    {
+      "date": "2026-05-11",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-12",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-13",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-14",
+      "minutes": 461
+    },
+    {
+      "date": "2026-05-15",
+      "minutes": 97
+    }
+  ],
+  "consistencyScore": null,
+  "currentRankIndex": null,
+  "currentRank": null,
+  "nextRank": null,
+  "rankProgress": null,
+  "topLanguages": [],
+  "allTimeTotalMinutes": null,
+  "allTimeActiveDays": null,
+  "generatedAt": "2026-05-15T13:36:51.892Z",
+  "views": 34,
+  "userId": "696b854d96fb46e630ea609b"
+}
