@@ -6,28 +6,15 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 2805,
-  "activeDays": 11,
-  "todayMinutes": 97,
-  "todayEditor": "Antigravity",
-  "todayEditors": [
-    "Antigravity",
-    "chrome-extension",
-    "tldraw.com"
-  ],
-  "todayLanguages": [
-    {
-      "name": "javascript react",
-      "totalSeconds": 5049
-    }
-  ],
-  "last7DaysAverage": 117,
-  "percentChange": -17,
+  "totalFocusMinutes": 2301,
+  "activeDays": 10,
+  "todayMinutes": 0,
+  "todayEditor": null,
+  "todayEditors": [],
+  "todayLanguages": [],
+  "last7DaysAverage": 122,
+  "percentChange": -100,
   "last54Days": [
-    {
-      "date": "2026-05-02",
-      "minutes": 504
-    },
     {
       "date": "2026-05-03",
       "minutes": 346
@@ -79,6 +66,10 @@
     {
       "date": "2026-05-15",
       "minutes": 97
+    },
+    {
+      "date": "2026-05-16",
+      "minutes": 0
     }
   ],
   "consistencyScore": null,
@@ -89,7 +80,7 @@
   "topLanguages": [],
   "allTimeTotalMinutes": null,
   "allTimeActiveDays": null,
-  "generatedAt": "2026-05-15T18:15:18.193Z",
+  "generatedAt": "2026-05-15T18:30:32.870Z",
   "views": 36,
   "userId": "696b854d96fb46e630ea609b"
 }
