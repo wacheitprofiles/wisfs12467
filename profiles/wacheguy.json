@@ -11,12 +11,13 @@
   "todayMinutes": 0,
   "todayEditor": "Antigravity",
   "todayEditors": [
-    "Antigravity"
+    "Antigravity",
+    "Gemini CLI"
   ],
   "todayLanguages": [
     {
       "name": "javascript react",
-      "totalSeconds": 33
+      "totalSeconds": 34
     }
   ],
   "last7DaysAverage": 122,
@@ -87,7 +88,7 @@
   "topLanguages": [],
   "allTimeTotalMinutes": null,
   "allTimeActiveDays": null,
-  "generatedAt": "2026-05-16T11:30:30.430Z",
+  "generatedAt": "2026-05-16T11:45:17.069Z",
   "views": 36,
   "userId": "696b854d96fb46e630ea609b"
 }
