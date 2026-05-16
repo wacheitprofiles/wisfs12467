@@ -9,9 +9,16 @@
   "totalFocusMinutes": 2301,
   "activeDays": 10,
   "todayMinutes": 0,
-  "todayEditor": null,
-  "todayEditors": [],
-  "todayLanguages": [],
+  "todayEditor": "Antigravity",
+  "todayEditors": [
+    "Antigravity"
+  ],
+  "todayLanguages": [
+    {
+      "name": "javascript react",
+      "totalSeconds": 33
+    }
+  ],
   "last7DaysAverage": 122,
   "percentChange": -100,
   "last54Days": [
@@ -80,7 +87,7 @@
   "topLanguages": [],
   "allTimeTotalMinutes": null,
   "allTimeActiveDays": null,
-  "generatedAt": "2026-05-16T06:45:18.358Z",
+  "generatedAt": "2026-05-16T07:00:41.847Z",
   "views": 36,
   "userId": "696b854d96fb46e630ea609b"
 }
