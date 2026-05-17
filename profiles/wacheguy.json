@@ -6,34 +6,15 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 2191,
-  "activeDays": 11,
-  "todayMinutes": 23,
-  "todayEditors": [
-    "Codex CLI",
-    "Gemini CLI"
-  ],
-  "todayLanguages": [
-    {
-      "name": "javascript",
-      "totalSeconds": 535
-    },
-    {
-      "name": "json",
-      "totalSeconds": 333
-    },
-    {
-      "name": "markdown",
-      "totalSeconds": 40
-    }
-  ],
-  "last7DaysAverage": 121,
-  "percentChange": -81,
+  "totalFocusMinutes": 2135,
+  "activeDays": 10,
+  "todayMinutes": 0,
+  "todayEditor": null,
+  "todayEditors": [],
+  "todayLanguages": [],
+  "last7DaysAverage": 113,
+  "percentChange": -100,
   "last54Days": [
-    {
-      "date": "2026-05-04",
-      "minutes": 56
-    },
     {
       "date": "2026-05-05",
       "minutes": 617
@@ -85,6 +66,10 @@
     {
       "date": "2026-05-17",
       "minutes": 23
+    },
+    {
+      "date": "2026-05-18",
+      "minutes": 0
     }
   ],
   "consistencyScore": null,
@@ -95,7 +80,7 @@
   "topLanguages": [],
   "allTimeTotalMinutes": null,
   "allTimeActiveDays": null,
-  "generatedAt": "2026-05-17T18:15:17.967Z",
+  "generatedAt": "2026-05-17T18:30:32.727Z",
   "views": 36,
   "userId": "696b854d96fb46e630ea609b"
 }
