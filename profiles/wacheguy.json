@@ -9,8 +9,10 @@
   "totalFocusMinutes": 2168,
   "activeDays": 10,
   "todayMinutes": 0,
-  "todayEditor": null,
-  "todayEditors": [],
+  "todayEditors": [
+    "Codex CLI",
+    "Gemini CLI"
+  ],
   "todayLanguages": [],
   "last7DaysAverage": 121,
   "percentChange": -100,
@@ -80,7 +82,7 @@
   "topLanguages": [],
   "allTimeTotalMinutes": null,
   "allTimeActiveDays": null,
-  "generatedAt": "2026-05-17T04:15:17.287Z",
+  "generatedAt": "2026-05-17T04:30:29.148Z",
   "views": 36,
   "userId": "696b854d96fb46e630ea609b"
 }
