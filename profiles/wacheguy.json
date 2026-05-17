@@ -6,9 +6,9 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 2178,
+  "totalFocusMinutes": 2180,
   "activeDays": 11,
-  "todayMinutes": 10,
+  "todayMinutes": 12,
   "todayEditors": [
     "Codex CLI",
     "Gemini CLI"
@@ -28,7 +28,7 @@
     }
   ],
   "last7DaysAverage": 121,
-  "percentChange": -92,
+  "percentChange": -90,
   "last54Days": [
     {
       "date": "2026-05-04",
@@ -84,7 +84,7 @@
     },
     {
       "date": "2026-05-17",
-      "minutes": 10
+      "minutes": 12
     }
   ],
   "consistencyScore": null,
@@ -95,7 +95,7 @@
   "topLanguages": [],
   "allTimeTotalMinutes": null,
   "allTimeActiveDays": null,
-  "generatedAt": "2026-05-17T13:45:17.776Z",
+  "generatedAt": "2026-05-17T14:00:41.884Z",
   "views": 36,
   "userId": "696b854d96fb46e630ea609b"
 }
