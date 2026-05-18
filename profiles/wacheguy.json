@@ -2,13 +2,13 @@
   "username": "Bhanu4417",
   "bio": "Consistency Builded Me",
   "avatar": 2,
-  "isPaid": 0,
+  "isPaid": 1,
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 2151,
-  "activeDays": 11,
-  "todayMinutes": 16,
+  "totalFocusMinutes": 13920,
+  "activeDays": 51,
+  "todayMinutes": 20,
   "todayEditor": "Antigravity",
   "todayEditors": [
     "Antigravity"
@@ -16,12 +16,172 @@
   "todayLanguages": [
     {
       "name": "javascript react",
-      "totalSeconds": 960
+      "totalSeconds": 1257
     }
   ],
   "last7DaysAverage": 113,
-  "percentChange": -86,
+  "percentChange": -82,
   "last54Days": [
+    {
+      "date": "2026-03-26",
+      "minutes": 381
+    },
+    {
+      "date": "2026-03-27",
+      "minutes": 171
+    },
+    {
+      "date": "2026-03-28",
+      "minutes": 198
+    },
+    {
+      "date": "2026-03-29",
+      "minutes": 266
+    },
+    {
+      "date": "2026-03-30",
+      "minutes": 380
+    },
+    {
+      "date": "2026-03-31",
+      "minutes": 240
+    },
+    {
+      "date": "2026-04-01",
+      "minutes": 230
+    },
+    {
+      "date": "2026-04-02",
+      "minutes": 550
+    },
+    {
+      "date": "2026-04-03",
+      "minutes": 436
+    },
+    {
+      "date": "2026-04-04",
+      "minutes": 135
+    },
+    {
+      "date": "2026-04-05",
+      "minutes": 219
+    },
+    {
+      "date": "2026-04-06",
+      "minutes": 116
+    },
+    {
+      "date": "2026-04-07",
+      "minutes": 334
+    },
+    {
+      "date": "2026-04-08",
+      "minutes": 99
+    },
+    {
+      "date": "2026-04-09",
+      "minutes": 257
+    },
+    {
+      "date": "2026-04-10",
+      "minutes": 474
+    },
+    {
+      "date": "2026-04-11",
+      "minutes": 205
+    },
+    {
+      "date": "2026-04-12",
+      "minutes": 254
+    },
+    {
+      "date": "2026-04-13",
+      "minutes": 111
+    },
+    {
+      "date": "2026-04-14",
+      "minutes": 253
+    },
+    {
+      "date": "2026-04-15",
+      "minutes": 39
+    },
+    {
+      "date": "2026-04-16",
+      "minutes": 225
+    },
+    {
+      "date": "2026-04-17",
+      "minutes": 214
+    },
+    {
+      "date": "2026-04-18",
+      "minutes": 70
+    },
+    {
+      "date": "2026-04-19",
+      "minutes": 346
+    },
+    {
+      "date": "2026-04-20",
+      "minutes": 159
+    },
+    {
+      "date": "2026-04-21",
+      "minutes": 22
+    },
+    {
+      "date": "2026-04-22",
+      "minutes": 456
+    },
+    {
+      "date": "2026-04-23",
+      "minutes": 119
+    },
+    {
+      "date": "2026-04-24",
+      "minutes": 535
+    },
+    {
+      "date": "2026-04-25",
+      "minutes": 325
+    },
+    {
+      "date": "2026-04-26",
+      "minutes": 335
+    },
+    {
+      "date": "2026-04-27",
+      "minutes": 439
+    },
+    {
+      "date": "2026-04-28",
+      "minutes": 196
+    },
+    {
+      "date": "2026-04-29",
+      "minutes": 527
+    },
+    {
+      "date": "2026-04-30",
+      "minutes": 544
+    },
+    {
+      "date": "2026-05-01",
+      "minutes": 999
+    },
+    {
+      "date": "2026-05-02",
+      "minutes": 504
+    },
+    {
+      "date": "2026-05-03",
+      "minutes": 346
+    },
+    {
+      "date": "2026-05-04",
+      "minutes": 56
+    },
     {
       "date": "2026-05-05",
       "minutes": 617
@@ -76,18 +236,47 @@
     },
     {
       "date": "2026-05-18",
-      "minutes": 16
+      "minutes": 20
     }
   ],
-  "consistencyScore": null,
-  "currentRankIndex": null,
-  "currentRank": null,
-  "nextRank": null,
-  "rankProgress": null,
-  "topLanguages": [],
-  "allTimeTotalMinutes": null,
-  "allTimeActiveDays": null,
-  "generatedAt": "2026-05-18T07:30:31.423Z",
+  "consistencyScore": 94,
+  "currentRankIndex": 13,
+  "currentRank": {
+    "name": "ENTROPY",
+    "sub": "II",
+    "threshold": 13200
+  },
+  "nextRank": {
+    "name": "ENTROPY",
+    "sub": "III",
+    "threshold": 16200
+  },
+  "rankProgress": 24,
+  "topLanguages": [
+    {
+      "name": "JavaScript",
+      "totalSeconds": 106858
+    },
+    {
+      "name": "javascriptreact",
+      "totalSeconds": 101835
+    },
+    {
+      "name": "TypeScript",
+      "totalSeconds": 85662
+    },
+    {
+      "name": "Markdown",
+      "totalSeconds": 79808
+    },
+    {
+      "name": "javascript",
+      "totalSeconds": 74675
+    }
+  ],
+  "allTimeTotalMinutes": 33296,
+  "allTimeActiveDays": 127,
+  "generatedAt": "2026-05-18T07:45:18.639Z",
   "views": 36,
   "userId": "696b854d96fb46e630ea609b"
 }
