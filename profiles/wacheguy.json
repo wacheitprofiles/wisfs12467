@@ -6,15 +6,15 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 14071,
+  "totalFocusMinutes": 14104,
   "activeDays": 51,
-  "todayMinutes": 171,
+  "todayMinutes": 204,
   "todayEditor": "Antigravity",
   "todayEditors": [
     "Antigravity",
     "Gemini CLI",
     "chrome-extension",
-    "perplexity.ai"
+    "tldraw.com"
   ],
   "todayLanguages": [
     {
@@ -31,7 +31,7 @@
     }
   ],
   "last7DaysAverage": 113,
-  "percentChange": 51,
+  "percentChange": 81,
   "last54Days": [
     {
       "date": "2026-03-26",
@@ -247,7 +247,7 @@
     },
     {
       "date": "2026-05-18",
-      "minutes": 171
+      "minutes": 204
     }
   ],
   "consistencyScore": 94,
@@ -262,7 +262,7 @@
     "sub": "III",
     "threshold": 16200
   },
-  "rankProgress": 29,
+  "rankProgress": 30,
   "topLanguages": [
     {
       "name": "JavaScript",
@@ -285,9 +285,9 @@
       "totalSeconds": 75007
     }
   ],
-  "allTimeTotalMinutes": 33446,
+  "allTimeTotalMinutes": 33480,
   "allTimeActiveDays": 127,
-  "generatedAt": "2026-05-18T13:00:44.291Z",
+  "generatedAt": "2026-05-18T13:15:18.247Z",
   "views": 37,
   "userId": "696b854d96fb46e630ea609b"
 }
