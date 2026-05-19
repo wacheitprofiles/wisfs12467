@@ -9,8 +9,9 @@
   "totalFocusMinutes": 13899,
   "activeDays": 50,
   "todayMinutes": 0,
-  "todayEditor": null,
-  "todayEditors": [],
+  "todayEditors": [
+    "Gemini CLI"
+  ],
   "todayLanguages": [],
   "last7DaysAverage": 168,
   "percentChange": -100,
@@ -268,8 +269,8 @@
     }
   ],
   "allTimeTotalMinutes": 33656,
-  "allTimeActiveDays": 127,
-  "generatedAt": "2026-05-19T03:45:18.844Z",
+  "allTimeActiveDays": 128,
+  "generatedAt": "2026-05-19T04:00:43.484Z",
   "views": 37,
   "userId": "696b854d96fb46e630ea609b"
 }
