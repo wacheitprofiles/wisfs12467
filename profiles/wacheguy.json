@@ -6,9 +6,9 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 13981,
+  "totalFocusMinutes": 14000,
   "activeDays": 51,
-  "todayMinutes": 82,
+  "todayMinutes": 101,
   "todayEditor": "Antigravity",
   "todayEditors": [
     "Gemini CLI",
@@ -16,9 +16,13 @@
     "Claude CLI",
     "Antigravity",
     "chrome-extension",
-    "chatgpt.com"
+    "tldraw.com"
   ],
   "todayLanguages": [
+    {
+      "name": "javascript",
+      "totalSeconds": 1157
+    },
     {
       "name": "javascript react",
       "totalSeconds": 805
@@ -28,16 +32,12 @@
       "totalSeconds": 766
     },
     {
-      "name": "javascript",
-      "totalSeconds": 365
-    },
-    {
       "name": "json",
       "totalSeconds": 1
     }
   ],
   "last7DaysAverage": 168,
-  "percentChange": -51,
+  "percentChange": -40,
   "last54Days": [
     {
       "date": "2026-03-27",
@@ -253,7 +253,7 @@
     },
     {
       "date": "2026-05-19",
-      "minutes": 82
+      "minutes": 101
     }
   ],
   "consistencyScore": 94,
@@ -268,7 +268,7 @@
     "sub": "III",
     "threshold": 16200
   },
-  "rankProgress": 26,
+  "rankProgress": 27,
   "topLanguages": [
     {
       "name": "javascriptreact",
@@ -288,12 +288,12 @@
     },
     {
       "name": "javascript",
-      "totalSeconds": 75811
+      "totalSeconds": 76603
     }
   ],
-  "allTimeTotalMinutes": 33738,
+  "allTimeTotalMinutes": 33757,
   "allTimeActiveDays": 128,
-  "generatedAt": "2026-05-19T17:15:19.399Z",
+  "generatedAt": "2026-05-19T17:30:32.514Z",
   "views": 38,
   "userId": "696b854d96fb46e630ea609b"
 }
