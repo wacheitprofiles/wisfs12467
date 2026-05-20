@@ -4,11 +4,11 @@
   "avatar": 2,
   "isPaid": 1,
   "createdAt": "2026-01-01T05:00:00.245Z",
-  "timezone": "Asia/Kolkata",
-  "region": "Asia/Kolkata",
-  "totalFocusMinutes": 14019,
+  "timezone": "Asia/Calcutta",
+  "region": "Asia/Calcutta",
+  "totalFocusMinutes": 14033,
   "activeDays": 51,
-  "todayMinutes": 169,
+  "todayMinutes": 183,
   "todayEditor": "Antigravity IDE",
   "todayEditors": [
     "Gemini CLI",
@@ -17,7 +17,7 @@
     "Antigravity IDE",
     "Antigravity",
     "chrome-extension",
-    "claude.ai"
+    "chatgpt.com"
   ],
   "todayLanguages": [
     {
@@ -29,16 +29,16 @@
       "totalSeconds": 1881
     },
     {
-      "name": "javascript react",
-      "totalSeconds": 552
+      "name": "json",
+      "totalSeconds": 1100
     },
     {
-      "name": "json",
-      "totalSeconds": 341
+      "name": "javascript react",
+      "totalSeconds": 552
     }
   ],
   "last7DaysAverage": 185,
-  "percentChange": -9,
+  "percentChange": -1,
   "last54Days": [
     {
       "date": "2026-03-28",
@@ -254,7 +254,7 @@
     },
     {
       "date": "2026-05-20",
-      "minutes": 169
+      "minutes": 183
     }
   ],
   "consistencyScore": 94,
@@ -269,7 +269,7 @@
     "sub": "III",
     "threshold": 16200
   },
-  "rankProgress": 27,
+  "rankProgress": 28,
   "topLanguages": [
     {
       "name": "javascriptreact",
@@ -292,9 +292,9 @@
       "totalSeconds": 76168
     }
   ],
-  "allTimeTotalMinutes": 33948,
+  "allTimeTotalMinutes": 33962,
   "allTimeActiveDays": 129,
-  "generatedAt": "2026-05-20T13:15:19.110Z",
+  "generatedAt": "2026-05-20T13:30:32.060Z",
   "views": 38,
   "userId": "696b854d96fb46e630ea609b"
 }
