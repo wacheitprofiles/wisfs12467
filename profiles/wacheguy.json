@@ -6,45 +6,15 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 14216,
-  "activeDays": 51,
-  "todayMinutes": 349,
-  "todayEditor": "Antigravity IDE",
-  "todayEditors": [
-    "Gemini CLI",
-    "Antigravity IDE",
-    "chrome-extension",
-    "chatgpt.com"
-  ],
-  "todayLanguages": [
-    {
-      "name": "javascript react",
-      "totalSeconds": 7368
-    },
-    {
-      "name": "dotenv",
-      "totalSeconds": 2350
-    },
-    {
-      "name": "python",
-      "totalSeconds": 2197
-    },
-    {
-      "name": "markdown",
-      "totalSeconds": 1145
-    },
-    {
-      "name": "json",
-      "totalSeconds": 26
-    }
-  ],
-  "last7DaysAverage": 216,
-  "percentChange": 62,
+  "totalFocusMinutes": 13958,
+  "activeDays": 50,
+  "todayMinutes": 0,
+  "todayEditor": null,
+  "todayEditors": [],
+  "todayLanguages": [],
+  "last7DaysAverage": 201,
+  "percentChange": -100,
   "last54Days": [
-    {
-      "date": "2026-03-29",
-      "minutes": 266
-    },
     {
       "date": "2026-03-30",
       "minutes": 380
@@ -255,10 +225,14 @@
     },
     {
       "date": "2026-05-21",
-      "minutes": 349
+      "minutes": 357
+    },
+    {
+      "date": "2026-05-22",
+      "minutes": 0
     }
   ],
-  "consistencyScore": 94,
+  "consistencyScore": 93,
   "currentRankIndex": 13,
   "currentRank": {
     "name": "ENTROPY",
@@ -270,32 +244,32 @@
     "sub": "III",
     "threshold": 16200
   },
-  "rankProgress": 34,
+  "rankProgress": 25,
   "topLanguages": [
     {
       "name": "javascriptreact",
-      "totalSeconds": 101585
+      "totalSeconds": 95170
     },
     {
       "name": "JavaScript",
-      "totalSeconds": 90544
+      "totalSeconds": 90394
     },
     {
       "name": "TypeScript",
-      "totalSeconds": 80799
+      "totalSeconds": 76719
     },
     {
       "name": "javascript",
-      "totalSeconds": 76037
+      "totalSeconds": 74981
     },
     {
       "name": "Markdown",
-      "totalSeconds": 73856
+      "totalSeconds": 72505
     }
   ],
-  "allTimeTotalMinutes": 34343,
+  "allTimeTotalMinutes": 34351,
   "allTimeActiveDays": 130,
-  "generatedAt": "2026-05-21T18:15:20.626Z",
+  "generatedAt": "2026-05-21T18:30:32.946Z",
   "views": 38,
   "userId": "696b854d96fb46e630ea609b"
 }
