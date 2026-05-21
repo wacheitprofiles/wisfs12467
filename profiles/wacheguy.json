@@ -9,8 +9,10 @@
   "totalFocusMinutes": 13958,
   "activeDays": 50,
   "todayMinutes": 0,
-  "todayEditor": null,
-  "todayEditors": [],
+  "todayEditors": [
+    "chrome-extension",
+    "chatgpt.com"
+  ],
   "todayLanguages": [],
   "last7DaysAverage": 201,
   "percentChange": -100,
@@ -268,8 +270,8 @@
     }
   ],
   "allTimeTotalMinutes": 34351,
-  "allTimeActiveDays": 130,
-  "generatedAt": "2026-05-21T18:45:18.423Z",
+  "allTimeActiveDays": 131,
+  "generatedAt": "2026-05-21T19:00:43.010Z",
   "views": 38,
   "userId": "696b854d96fb46e630ea609b"
 }
