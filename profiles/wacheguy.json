@@ -6,16 +6,16 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 13786,
+  "totalFocusMinutes": 13795,
   "activeDays": 51,
-  "todayMinutes": 4,
+  "todayMinutes": 13,
   "todayEditors": [
     "chrome-extension",
     "chatgpt.com"
   ],
   "todayLanguages": [],
   "last7DaysAverage": 216,
-  "percentChange": -98,
+  "percentChange": -94,
   "last54Days": [
     {
       "date": "2026-03-31",
@@ -231,7 +231,7 @@
     },
     {
       "date": "2026-05-23",
-      "minutes": 4
+      "minutes": 13
     }
   ],
   "consistencyScore": 94,
@@ -269,9 +269,9 @@
       "totalSeconds": 69181
     }
   ],
-  "allTimeTotalMinutes": 34560,
+  "allTimeTotalMinutes": 34569,
   "allTimeActiveDays": 132,
-  "generatedAt": "2026-05-22T19:00:45.214Z",
+  "generatedAt": "2026-05-22T19:15:19.414Z",
   "views": 39,
   "userId": "696b854d96fb46e630ea609b"
 }
