@@ -6,9 +6,9 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 14023,
+  "totalFocusMinutes": 14038,
   "activeDays": 51,
-  "todayMinutes": 65,
+  "todayMinutes": 80,
   "todayEditor": "Antigravity IDE",
   "todayEditors": [
     "Codex CLI",
@@ -27,7 +27,7 @@
     }
   ],
   "last7DaysAverage": 201,
-  "percentChange": -68,
+  "percentChange": -60,
   "last54Days": [
     {
       "date": "2026-03-30",
@@ -243,7 +243,7 @@
     },
     {
       "date": "2026-05-22",
-      "minutes": 65
+      "minutes": 80
     }
   ],
   "consistencyScore": 94,
@@ -258,7 +258,7 @@
     "sub": "III",
     "threshold": 16200
   },
-  "rankProgress": 27,
+  "rankProgress": 28,
   "topLanguages": [
     {
       "name": "javascriptreact",
@@ -281,9 +281,9 @@
       "totalSeconds": 72505
     }
   ],
-  "allTimeTotalMinutes": 34416,
+  "allTimeTotalMinutes": 34432,
   "allTimeActiveDays": 131,
-  "generatedAt": "2026-05-22T13:45:19.569Z",
+  "generatedAt": "2026-05-22T14:00:43.261Z",
   "views": 39,
   "userId": "696b854d96fb46e630ea609b"
 }
