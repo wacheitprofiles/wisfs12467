@@ -9,7 +9,7 @@
   "totalFocusMinutes": 14066,
   "activeDays": 51,
   "todayMinutes": 142,
-  "todayEditor": "VS Code",
+  "todayEditor": "Antigravity IDE",
   "todayEditors": [
     "Codex CLI",
     "Gemini CLI",
@@ -26,7 +26,7 @@
     },
     {
       "name": "javascript react",
-      "totalSeconds": 1260
+      "totalSeconds": 1261
     },
     {
       "name": "typescript react",
@@ -289,7 +289,7 @@
     },
     {
       "name": "javascript react",
-      "totalSeconds": 70150
+      "totalSeconds": 70151
     },
     {
       "name": "TypeScript",
@@ -298,7 +298,7 @@
   ],
   "allTimeTotalMinutes": 35081,
   "allTimeActiveDays": 133,
-  "generatedAt": "2026-05-24T14:00:43.484Z",
+  "generatedAt": "2026-05-24T14:15:18.864Z",
   "views": 39,
   "userId": "696b854d96fb46e630ea609b"
 }
