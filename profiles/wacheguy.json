@@ -4,11 +4,11 @@
   "avatar": 2,
   "isPaid": 1,
   "createdAt": "2026-01-01T05:00:00.245Z",
-  "timezone": "Asia/Kolkata",
-  "region": "Asia/Kolkata",
-  "totalFocusMinutes": 14090,
+  "timezone": "Asia/Calcutta",
+  "region": "Asia/Calcutta",
+  "totalFocusMinutes": 14095,
   "activeDays": 51,
-  "todayMinutes": 166,
+  "todayMinutes": 171,
   "todayEditor": "Antigravity IDE",
   "todayEditors": [
     "Codex CLI",
@@ -17,7 +17,7 @@
     "Antigravity IDE",
     "VS Code",
     "chrome-extension",
-    "chatgpt.com"
+    "stitch.withgoogle.com"
   ],
   "todayLanguages": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "name": "javascript react",
-      "totalSeconds": 1855
+      "totalSeconds": 2046
     },
     {
       "name": "typescript react",
@@ -42,7 +42,7 @@
     }
   ],
   "last7DaysAverage": 240,
-  "percentChange": -31,
+  "percentChange": -29,
   "last54Days": [
     {
       "date": "2026-04-01",
@@ -258,7 +258,7 @@
     },
     {
       "date": "2026-05-24",
-      "minutes": 166
+      "minutes": 171
     }
   ],
   "consistencyScore": 94,
@@ -289,16 +289,16 @@
     },
     {
       "name": "javascript react",
-      "totalSeconds": 70745
+      "totalSeconds": 70936
     },
     {
       "name": "TypeScript",
       "totalSeconds": 69041
     }
   ],
-  "allTimeTotalMinutes": 35105,
+  "allTimeTotalMinutes": 35110,
   "allTimeActiveDays": 133,
-  "generatedAt": "2026-05-24T15:30:33.581Z",
+  "generatedAt": "2026-05-24T15:45:18.212Z",
   "views": 39,
   "userId": "696b854d96fb46e630ea609b"
 }
