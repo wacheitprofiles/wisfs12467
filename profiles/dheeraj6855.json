@@ -1,0 +1,86 @@
+{
+  "username": "Dheeraj",
+  "bio": "Dont know now",
+  "avatar": 3,
+  "isPaid": 0,
+  "createdAt": "2026-02-05T11:38:31.000Z",
+  "timezone": "Asia/Calcutta",
+  "region": "Asia/Calcutta",
+  "totalFocusMinutes": 0,
+  "activeDays": 0,
+  "todayMinutes": 0,
+  "todayEditor": null,
+  "todayEditors": [],
+  "todayLanguages": [],
+  "last7DaysAverage": 0,
+  "percentChange": 0,
+  "last54Days": [
+    {
+      "date": "2026-05-12",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-13",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-14",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-15",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-16",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-17",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-18",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-19",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-20",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-21",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-22",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-23",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-24",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-25",
+      "minutes": 0
+    }
+  ],
+  "consistencyScore": null,
+  "currentRankIndex": null,
+  "currentRank": null,
+  "nextRank": null,
+  "rankProgress": null,
+  "topLanguages": [],
+  "allTimeTotalMinutes": null,
+  "allTimeActiveDays": null,
+  "generatedAt": "2026-05-25T02:50:36.855Z",
+  "views": 0,
+  "userId": "698481376b7c2eb80d0d86cc"
+}
