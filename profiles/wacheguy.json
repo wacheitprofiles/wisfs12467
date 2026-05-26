@@ -9,7 +9,7 @@
   "totalFocusMinutes": 13467,
   "activeDays": 51,
   "todayMinutes": 7,
-  "todayEditor": "Cursor",
+  "todayEditor": "Antigravity IDE",
   "todayEditors": [
     "Cursor",
     "Antigravity IDE",
@@ -20,7 +20,7 @@
   "todayLanguages": [
     {
       "name": "javascript react",
-      "totalSeconds": 35
+      "totalSeconds": 36
     }
   ],
   "last7DaysAverage": 228,
@@ -267,7 +267,7 @@
     },
     {
       "name": "javascript react",
-      "totalSeconds": 72971
+      "totalSeconds": 72972
     },
     {
       "name": "javascript",
@@ -280,7 +280,7 @@
   ],
   "allTimeTotalMinutes": 35262,
   "allTimeActiveDays": 135,
-  "generatedAt": "2026-05-26T12:15:18.736Z",
+  "generatedAt": "2026-05-26T12:30:33.465Z",
   "views": 40,
   "userId": "696b854d96fb46e630ea609b"
 }
