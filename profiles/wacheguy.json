@@ -6,16 +6,16 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 13150,
-  "activeDays": 50,
-  "todayMinutes": 0,
+  "totalFocusMinutes": 13152,
+  "activeDays": 51,
+  "todayMinutes": 2,
   "todayEditors": [],
   "todaySites": [
     "figma.com"
   ],
   "todayLanguages": [],
   "last7DaysAverage": 229,
-  "percentChange": -100,
+  "percentChange": -99,
   "last54Days": [
     {
       "date": "2026-04-04",
@@ -231,10 +231,10 @@
     },
     {
       "date": "2026-05-27",
-      "minutes": 0
+      "minutes": 2
     }
   ],
-  "consistencyScore": 93,
+  "consistencyScore": 94,
   "currentRankIndex": 12,
   "currentRank": {
     "name": "ENTROPY",
@@ -269,9 +269,9 @@
       "totalSeconds": 60890
     }
   ],
-  "allTimeTotalMinutes": 35382,
+  "allTimeTotalMinutes": 35383,
   "allTimeActiveDays": 136,
-  "generatedAt": "2026-05-26T18:30:33.846Z",
+  "generatedAt": "2026-05-26T18:45:20.741Z",
   "views": 40,
   "userId": "696b854d96fb46e630ea609b"
 }
