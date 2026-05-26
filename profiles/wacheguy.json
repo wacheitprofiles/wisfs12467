@@ -6,38 +6,17 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 13585,
-  "activeDays": 51,
-  "todayMinutes": 125,
-  "todayEditor": "Antigravity IDE",
-  "todayEditors": [
-    "Cursor",
-    "Antigravity IDE",
-    "Gemini CLI"
-  ],
+  "totalFocusMinutes": 13150,
+  "activeDays": 50,
+  "todayMinutes": 0,
+  "todayEditors": [],
   "todaySites": [
-    "chatgpt.com",
-    "figma.com",
-    "claude.ai",
-    "tldraw.com"
+    "figma.com"
   ],
-  "todayLanguages": [
-    {
-      "name": "javascript react",
-      "totalSeconds": 5457
-    },
-    {
-      "name": "markdown",
-      "totalSeconds": 124
-    }
-  ],
-  "last7DaysAverage": 228,
-  "percentChange": -45,
+  "todayLanguages": [],
+  "last7DaysAverage": 229,
+  "percentChange": -100,
   "last54Days": [
-    {
-      "date": "2026-04-03",
-      "minutes": 436
-    },
     {
       "date": "2026-04-04",
       "minutes": 135
@@ -248,47 +227,51 @@
     },
     {
       "date": "2026-05-26",
-      "minutes": 125
+      "minutes": 126
+    },
+    {
+      "date": "2026-05-27",
+      "minutes": 0
     }
   ],
-  "consistencyScore": 94,
-  "currentRankIndex": 13,
+  "consistencyScore": 93,
+  "currentRankIndex": 12,
   "currentRank": {
+    "name": "ENTROPY",
+    "sub": "I",
+    "threshold": 10800
+  },
+  "nextRank": {
     "name": "ENTROPY",
     "sub": "II",
     "threshold": 13200
   },
-  "nextRank": {
-    "name": "ENTROPY",
-    "sub": "III",
-    "threshold": 16200
-  },
-  "rankProgress": 13,
+  "rankProgress": 98,
   "topLanguages": [
     {
       "name": "JavaScript",
-      "totalSeconds": 82096
-    },
-    {
-      "name": "javascriptreact",
-      "totalSeconds": 80465
+      "totalSeconds": 82059
     },
     {
       "name": "javascript react",
-      "totalSeconds": 78393
+      "totalSeconds": 78426
+    },
+    {
+      "name": "javascriptreact",
+      "totalSeconds": 72159
     },
     {
       "name": "javascript",
-      "totalSeconds": 70457
+      "totalSeconds": 69197
     },
     {
-      "name": "TypeScript",
-      "totalSeconds": 65197
+      "name": "Markdown",
+      "totalSeconds": 60890
     }
   ],
-  "allTimeTotalMinutes": 35380,
-  "allTimeActiveDays": 135,
-  "generatedAt": "2026-05-26T18:15:19.842Z",
+  "allTimeTotalMinutes": 35382,
+  "allTimeActiveDays": 136,
+  "generatedAt": "2026-05-26T18:30:33.846Z",
   "views": 40,
   "userId": "696b854d96fb46e630ea609b"
 }
