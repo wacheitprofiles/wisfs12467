@@ -6,16 +6,25 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 13152,
+  "totalFocusMinutes": 13158,
   "activeDays": 51,
-  "todayMinutes": 2,
-  "todayEditors": [],
+  "todayMinutes": 8,
+  "todayEditor": "Antigravity IDE",
+  "todayEditors": [
+    "Gemini CLI",
+    "Antigravity IDE"
+  ],
   "todaySites": [
     "figma.com"
   ],
-  "todayLanguages": [],
+  "todayLanguages": [
+    {
+      "name": "javascript react",
+      "totalSeconds": 365
+    }
+  ],
   "last7DaysAverage": 229,
-  "percentChange": -99,
+  "percentChange": -97,
   "last54Days": [
     {
       "date": "2026-04-04",
@@ -231,7 +240,7 @@
     },
     {
       "date": "2026-05-27",
-      "minutes": 2
+      "minutes": 8
     }
   ],
   "consistencyScore": 94,
@@ -254,7 +263,7 @@
     },
     {
       "name": "javascript react",
-      "totalSeconds": 78426
+      "totalSeconds": 78791
     },
     {
       "name": "javascriptreact",
@@ -269,9 +278,9 @@
       "totalSeconds": 60890
     }
   ],
-  "allTimeTotalMinutes": 35383,
+  "allTimeTotalMinutes": 35390,
   "allTimeActiveDays": 136,
-  "generatedAt": "2026-05-27T04:15:21.544Z",
+  "generatedAt": "2026-05-27T04:30:34.128Z",
   "views": 40,
   "userId": "696b854d96fb46e630ea609b"
 }
