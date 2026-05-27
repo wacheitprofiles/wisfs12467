@@ -1,0 +1,24 @@
+{
+  "type": "rank",
+  "username": "Bhanu4417",
+  "avatar": 2,
+  "equippedQuestName": "365 Day Invincible",
+  "isPaid": 1,
+  "upgradeData": {
+    "oldRank": {
+      "name": "ENTROPY",
+      "sub": "I",
+      "dark": "#ffb347",
+      "light": "#ea580c"
+    },
+    "newRank": {
+      "name": "ENTROPY",
+      "sub": "II",
+      "dark": "#ffb347",
+      "light": "#ea580c"
+    }
+  },
+  "totalMinutes": 13645,
+  "generatedAt": "2026-05-27T05:25:47.681Z",
+  "userId": "696b854d96fb46e630ea609b"
+}
