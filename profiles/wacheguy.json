@@ -9,9 +9,10 @@
   "totalFocusMinutes": 13139,
   "activeDays": 50,
   "todayMinutes": 0,
-  "todayEditor": null,
   "todayEditors": [],
-  "todaySites": [],
+  "todaySites": [
+    "figma.com"
+  ],
   "todayLanguages": [],
   "last7DaysAverage": 216,
   "percentChange": -100,
@@ -268,9 +269,9 @@
       "totalSeconds": 60819
     }
   ],
-  "allTimeTotalMinutes": 35505,
-  "allTimeActiveDays": 136,
-  "generatedAt": "2026-05-27T18:30:34.357Z",
+  "allTimeTotalMinutes": 35506,
+  "allTimeActiveDays": 137,
+  "generatedAt": "2026-05-27T18:45:20.336Z",
   "views": 41,
   "userId": "696b854d96fb46e630ea609b"
 }
