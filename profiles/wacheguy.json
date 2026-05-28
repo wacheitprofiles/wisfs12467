@@ -16,7 +16,8 @@
   ],
   "todaySites": [
     "figma.com",
-    "chatgpt.com"
+    "chatgpt.com",
+    "claude.ai"
   ],
   "todayLanguages": [
     {
@@ -25,7 +26,7 @@
     },
     {
       "name": "javascript",
-      "totalSeconds": 3037
+      "totalSeconds": 3038
     },
     {
       "name": "javascript react",
@@ -280,7 +281,7 @@
     },
     {
       "name": "javascript",
-      "totalSeconds": 71994
+      "totalSeconds": 71995
     },
     {
       "name": "javascriptreact",
@@ -293,7 +294,7 @@
   ],
   "allTimeTotalMinutes": 35672,
   "allTimeActiveDays": 137,
-  "generatedAt": "2026-05-28T16:45:20.624Z",
+  "generatedAt": "2026-05-28T17:00:47.079Z",
   "views": 41,
   "userId": "696b854d96fb46e630ea609b"
 }
