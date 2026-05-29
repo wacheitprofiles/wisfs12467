@@ -4,8 +4,8 @@
   "avatar": 2,
   "isPaid": 1,
   "createdAt": "2026-01-01T05:00:00.245Z",
-  "timezone": "Asia/Kolkata",
-  "region": "Asia/Kolkata",
+  "timezone": "Asia/Calcutta",
+  "region": "Asia/Calcutta",
   "totalFocusMinutes": 13134,
   "activeDays": 51,
   "todayMinutes": 33,
@@ -20,7 +20,7 @@
   "todayLanguages": [
     {
       "name": "css",
-      "totalSeconds": 1487
+      "totalSeconds": 1510
     }
   ],
   "last7DaysAverage": 190,
@@ -280,7 +280,7 @@
   ],
   "allTimeTotalMinutes": 35720,
   "allTimeActiveDays": 138,
-  "generatedAt": "2026-05-29T04:30:33.415Z",
+  "generatedAt": "2026-05-29T04:45:20.227Z",
   "views": 41,
   "userId": "696b854d96fb46e630ea609b"
 }
