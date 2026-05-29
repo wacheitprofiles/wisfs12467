@@ -6,36 +6,17 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 13186,
-  "activeDays": 51,
-  "todayMinutes": 85,
-  "todayEditor": "Antigravity IDE",
-  "todayEditors": [
-    "Gemini CLI",
-    "Antigravity IDE"
-  ],
+  "totalFocusMinutes": 13079,
+  "activeDays": 50,
+  "todayMinutes": 0,
+  "todayEditors": [],
   "todaySites": [
-    "figma.com",
-    "chatgpt.com",
     "claude.ai"
   ],
-  "todayLanguages": [
-    {
-      "name": "javascript",
-      "totalSeconds": 2900
-    },
-    {
-      "name": "css",
-      "totalSeconds": 1510
-    }
-  ],
-  "last7DaysAverage": 190,
-  "percentChange": -55,
+  "todayLanguages": [],
+  "last7DaysAverage": 175,
+  "percentChange": -100,
   "last54Days": [
-    {
-      "date": "2026-04-06",
-      "minutes": 116
-    },
     {
       "date": "2026-04-07",
       "minutes": 334
@@ -246,10 +227,14 @@
     },
     {
       "date": "2026-05-29",
-      "minutes": 85
+      "minutes": 94
+    },
+    {
+      "date": "2026-05-30",
+      "minutes": 0
     }
   ],
-  "consistencyScore": 94,
+  "consistencyScore": 93,
   "currentRankIndex": 12,
   "currentRank": {
     "name": "ENTROPY",
@@ -261,7 +246,7 @@
     "sub": "II",
     "threshold": 13200
   },
-  "rankProgress": 99,
+  "rankProgress": 95,
   "topLanguages": [
     {
       "name": "javascript react",
@@ -269,11 +254,11 @@
     },
     {
       "name": "JavaScript",
-      "totalSeconds": 80384
+      "totalSeconds": 79311
     },
     {
       "name": "javascript",
-      "totalSeconds": 74841
+      "totalSeconds": 74979
     },
     {
       "name": "javascriptreact",
@@ -281,12 +266,12 @@
     },
     {
       "name": "Markdown",
-      "totalSeconds": 57784
+      "totalSeconds": 54864
     }
   ],
-  "allTimeTotalMinutes": 35772,
-  "allTimeActiveDays": 138,
-  "generatedAt": "2026-05-29T18:15:20.129Z",
+  "allTimeTotalMinutes": 35781,
+  "allTimeActiveDays": 139,
+  "generatedAt": "2026-05-29T18:30:34.216Z",
   "views": 41,
   "userId": "696b854d96fb46e630ea609b"
 }
