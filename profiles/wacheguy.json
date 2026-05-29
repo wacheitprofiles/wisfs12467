@@ -6,17 +6,25 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 13089,
+  "totalFocusMinutes": 13098,
   "activeDays": 51,
-  "todayMinutes": 10,
-  "todayEditors": [],
+  "todayMinutes": 19,
+  "todayEditor": "Antigravity IDE",
+  "todayEditors": [
+    "Antigravity IDE"
+  ],
   "todaySites": [
     "claude.ai",
     "chatgpt.com"
   ],
-  "todayLanguages": [],
+  "todayLanguages": [
+    {
+      "name": "markdown",
+      "totalSeconds": 307
+    }
+  ],
   "last7DaysAverage": 175,
-  "percentChange": -94,
+  "percentChange": -89,
   "last54Days": [
     {
       "date": "2026-04-07",
@@ -232,7 +240,7 @@
     },
     {
       "date": "2026-05-30",
-      "minutes": 10
+      "minutes": 19
     }
   ],
   "consistencyScore": 94,
@@ -247,7 +255,7 @@
     "sub": "II",
     "threshold": 13200
   },
-  "rankProgress": 95,
+  "rankProgress": 96,
   "topLanguages": [
     {
       "name": "javascript react",
@@ -270,9 +278,9 @@
       "totalSeconds": 54864
     }
   ],
-  "allTimeTotalMinutes": 35791,
+  "allTimeTotalMinutes": 35800,
   "allTimeActiveDays": 139,
-  "generatedAt": "2026-05-29T19:00:46.463Z",
+  "generatedAt": "2026-05-29T19:15:21.317Z",
   "views": 41,
   "userId": "696b854d96fb46e630ea609b"
 }
