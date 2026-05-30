@@ -4,8 +4,8 @@
   "avatar": 2,
   "isPaid": 1,
   "createdAt": "2026-01-01T05:00:00.245Z",
-  "timezone": "Asia/Calcutta",
-  "region": "Asia/Calcutta",
+  "timezone": "Asia/Kolkata",
+  "region": "Asia/Kolkata",
   "totalFocusMinutes": 13216,
   "activeDays": 51,
   "todayMinutes": 137,
@@ -290,7 +290,7 @@
   ],
   "allTimeTotalMinutes": 35918,
   "allTimeActiveDays": 139,
-  "generatedAt": "2026-05-30T16:30:33.787Z",
+  "generatedAt": "2026-05-30T16:45:19.131Z",
   "views": 42,
   "userId": "696b854d96fb46e630ea609b"
 }
