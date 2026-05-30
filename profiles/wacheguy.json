@@ -6,9 +6,9 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 13128,
+  "totalFocusMinutes": 13136,
   "activeDays": 51,
-  "todayMinutes": 49,
+  "todayMinutes": 57,
   "todayEditor": "Antigravity IDE",
   "todayEditors": [
     "Antigravity IDE"
@@ -21,10 +21,14 @@
     {
       "name": "markdown",
       "totalSeconds": 1261
+    },
+    {
+      "name": "json",
+      "totalSeconds": 396
     }
   ],
   "last7DaysAverage": 175,
-  "percentChange": -72,
+  "percentChange": -67,
   "last54Days": [
     {
       "date": "2026-04-07",
@@ -240,7 +244,7 @@
     },
     {
       "date": "2026-05-30",
-      "minutes": 49
+      "minutes": 57
     }
   ],
   "consistencyScore": 94,
@@ -278,9 +282,9 @@
       "totalSeconds": 54864
     }
   ],
-  "allTimeTotalMinutes": 35830,
+  "allTimeTotalMinutes": 35838,
   "allTimeActiveDays": 139,
-  "generatedAt": "2026-05-30T07:15:22.486Z",
+  "generatedAt": "2026-05-30T07:30:37.558Z",
   "views": 41,
   "userId": "696b854d96fb46e630ea609b"
 }
