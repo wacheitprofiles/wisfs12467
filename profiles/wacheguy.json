@@ -4,23 +4,47 @@
   "avatar": 2,
   "isPaid": 1,
   "createdAt": "2026-01-01T05:00:00.245Z",
-  "timezone": "Asia/Calcutta",
-  "region": "Asia/Calcutta",
-  "totalFocusMinutes": 12903,
+  "timezone": "America/Los_Angeles",
+  "region": "America/Los Angeles",
+  "totalFocusMinutes": 13236,
   "activeDays": 51,
-  "todayMinutes": 2,
+  "todayMinutes": 157,
   "todayEditor": "Antigravity IDE",
   "todayEditors": [
     "Antigravity IDE"
   ],
   "todaySites": [
     "claude.ai",
+    "chatgpt.com",
+    "replit.com",
+    "tldraw.com",
     "lovable.dev"
   ],
-  "todayLanguages": [],
-  "last7DaysAverage": 142,
-  "percentChange": -99,
+  "todayLanguages": [
+    {
+      "name": "json",
+      "totalSeconds": 2311
+    },
+    {
+      "name": "markdown",
+      "totalSeconds": 1876
+    },
+    {
+      "name": "javascript",
+      "totalSeconds": 624
+    },
+    {
+      "name": "javascript react",
+      "totalSeconds": 33
+    }
+  ],
+  "last7DaysAverage": 175,
+  "percentChange": -10,
   "last54Days": [
+    {
+      "date": "2026-04-07",
+      "minutes": 334
+    },
     {
       "date": "2026-04-08",
       "minutes": 99
@@ -231,51 +255,47 @@
     },
     {
       "date": "2026-05-30",
-      "minutes": 156
-    },
-    {
-      "date": "2026-05-31",
-      "minutes": 2
+      "minutes": 157
     }
   ],
   "consistencyScore": 94,
-  "currentRankIndex": 12,
+  "currentRankIndex": 13,
   "currentRank": {
-    "name": "ENTROPY",
-    "sub": "I",
-    "threshold": 10800
-  },
-  "nextRank": {
     "name": "ENTROPY",
     "sub": "II",
     "threshold": 13200
   },
-  "rankProgress": 88,
+  "nextRank": {
+    "name": "ENTROPY",
+    "sub": "III",
+    "threshold": 16200
+  },
+  "rankProgress": 1,
   "topLanguages": [
     {
       "name": "javascript react",
       "totalSeconds": 84774
     },
     {
-      "name": "javascript",
-      "totalSeconds": 75603
+      "name": "JavaScript",
+      "totalSeconds": 79311
     },
     {
-      "name": "JavaScript",
-      "totalSeconds": 73775
+      "name": "javascript",
+      "totalSeconds": 75603
     },
     {
       "name": "javascriptreact",
       "totalSeconds": 65464
     },
     {
-      "name": "TypeScript",
-      "totalSeconds": 51722
+      "name": "Markdown",
+      "totalSeconds": 54864
     }
   ],
-  "allTimeTotalMinutes": 35940,
-  "allTimeActiveDays": 140,
-  "generatedAt": "2026-05-30T19:15:18.812Z",
+  "allTimeTotalMinutes": 35939,
+  "allTimeActiveDays": 139,
+  "generatedAt": "2026-05-30T19:30:32.953Z",
   "views": 42,
   "userId": "696b854d96fb46e630ea609b"
 }
