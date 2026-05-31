@@ -6,21 +6,27 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 12930,
+  "totalFocusMinutes": 12936,
   "activeDays": 51,
-  "todayMinutes": 28,
-  "todayEditor": "Antigravity IDE",
+  "todayMinutes": 34,
+  "todayEditor": "VS Code",
   "todayEditors": [
-    "Antigravity IDE"
+    "Antigravity IDE",
+    "VS Code"
   ],
   "todaySites": [
     "claude.ai",
     "lovable.dev",
     "chatgpt.com"
   ],
-  "todayLanguages": [],
+  "todayLanguages": [
+    {
+      "name": "cpp",
+      "totalSeconds": 26
+    }
+  ],
   "last7DaysAverage": 143,
-  "percentChange": -80,
+  "percentChange": -76,
   "last54Days": [
     {
       "date": "2026-04-08",
@@ -236,7 +242,7 @@
     },
     {
       "date": "2026-05-31",
-      "minutes": 28
+      "minutes": 34
     }
   ],
   "consistencyScore": 94,
@@ -274,9 +280,9 @@
       "totalSeconds": 51722
     }
   ],
-  "allTimeTotalMinutes": 35967,
+  "allTimeTotalMinutes": 35973,
   "allTimeActiveDays": 140,
-  "generatedAt": "2026-05-31T05:15:20.474Z",
+  "generatedAt": "2026-05-31T05:30:33.842Z",
   "views": 42,
   "userId": "696b854d96fb46e630ea609b"
 }
