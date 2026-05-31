@@ -4,22 +4,23 @@
   "avatar": 2,
   "isPaid": 1,
   "createdAt": "2026-01-01T05:00:00.245Z",
-  "timezone": "Asia/Kolkata",
-  "region": "Asia/Kolkata",
-  "totalFocusMinutes": 12917,
+  "timezone": "Asia/Calcutta",
+  "region": "Asia/Calcutta",
+  "totalFocusMinutes": 12920,
   "activeDays": 51,
-  "todayMinutes": 15,
+  "todayMinutes": 18,
   "todayEditor": "Antigravity IDE",
   "todayEditors": [
     "Antigravity IDE"
   ],
   "todaySites": [
     "claude.ai",
-    "lovable.dev"
+    "lovable.dev",
+    "chatgpt.com"
   ],
   "todayLanguages": [],
   "last7DaysAverage": 143,
-  "percentChange": -90,
+  "percentChange": -87,
   "last54Days": [
     {
       "date": "2026-04-08",
@@ -235,7 +236,7 @@
     },
     {
       "date": "2026-05-31",
-      "minutes": 15
+      "minutes": 18
     }
   ],
   "consistencyScore": 94,
@@ -273,9 +274,9 @@
       "totalSeconds": 51722
     }
   ],
-  "allTimeTotalMinutes": 35954,
+  "allTimeTotalMinutes": 35957,
   "allTimeActiveDays": 140,
-  "generatedAt": "2026-05-31T04:45:20.091Z",
+  "generatedAt": "2026-05-31T05:00:43.897Z",
   "views": 42,
   "userId": "696b854d96fb46e630ea609b"
 }
