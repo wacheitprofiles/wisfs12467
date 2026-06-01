@@ -4,8 +4,8 @@
   "avatar": 2,
   "isPaid": 1,
   "createdAt": "2026-01-01T05:00:00.245Z",
-  "timezone": "Asia/Kolkata",
-  "region": "Asia/Kolkata",
+  "timezone": "Asia/Calcutta",
+  "region": "Asia/Calcutta",
   "totalFocusMinutes": 12905,
   "activeDays": 51,
   "todayMinutes": 19,
@@ -18,7 +18,12 @@
     "claude.ai",
     "chatgpt.com"
   ],
-  "todayLanguages": [],
+  "todayLanguages": [
+    {
+      "name": "javascript",
+      "totalSeconds": 1
+    }
+  ],
   "last7DaysAverage": 124,
   "percentChange": -85,
   "last54Days": [
@@ -259,7 +264,7 @@
     },
     {
       "name": "javascript",
-      "totalSeconds": 75603
+      "totalSeconds": 75604
     },
     {
       "name": "JavaScript",
@@ -276,7 +281,7 @@
   ],
   "allTimeTotalMinutes": 36042,
   "allTimeActiveDays": 141,
-  "generatedAt": "2026-06-01T09:45:22.147Z",
+  "generatedAt": "2026-06-01T10:00:50.282Z",
   "views": 43,
   "userId": "696b854d96fb46e630ea609b"
 }
