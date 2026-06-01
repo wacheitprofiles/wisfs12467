@@ -4,18 +4,18 @@
   "avatar": 2,
   "isPaid": 1,
   "createdAt": "2026-01-01T05:00:00.245Z",
-  "timezone": "Asia/Kolkata",
-  "region": "Asia/Kolkata",
-  "totalFocusMinutes": 12890,
+  "timezone": "Asia/Calcutta",
+  "region": "Asia/Calcutta",
+  "totalFocusMinutes": 12892,
   "activeDays": 51,
-  "todayMinutes": 4,
+  "todayMinutes": 6,
   "todayEditors": [],
   "todaySites": [
     "claude.ai"
   ],
   "todayLanguages": [],
   "last7DaysAverage": 124,
-  "percentChange": -97,
+  "percentChange": -95,
   "last54Days": [
     {
       "date": "2026-04-09",
@@ -231,7 +231,7 @@
     },
     {
       "date": "2026-06-01",
-      "minutes": 4
+      "minutes": 6
     }
   ],
   "consistencyScore": 94,
@@ -269,9 +269,9 @@
       "totalSeconds": 50480
     }
   ],
-  "allTimeTotalMinutes": 36027,
+  "allTimeTotalMinutes": 36028,
   "allTimeActiveDays": 141,
-  "generatedAt": "2026-06-01T04:00:45.244Z",
+  "generatedAt": "2026-06-01T04:15:20.022Z",
   "views": 43,
   "userId": "696b854d96fb46e630ea609b"
 }
