@@ -6,16 +6,16 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Kolkata",
   "region": "Asia/Kolkata",
-  "totalFocusMinutes": 12895,
+  "totalFocusMinutes": 12896,
   "activeDays": 51,
-  "todayMinutes": 9,
+  "todayMinutes": 10,
   "todayEditors": [],
   "todaySites": [
     "claude.ai"
   ],
   "todayLanguages": [],
   "last7DaysAverage": 124,
-  "percentChange": -93,
+  "percentChange": -92,
   "last54Days": [
     {
       "date": "2026-04-09",
@@ -231,7 +231,7 @@
     },
     {
       "date": "2026-06-01",
-      "minutes": 9
+      "minutes": 10
     }
   ],
   "consistencyScore": 94,
@@ -271,7 +271,7 @@
   ],
   "allTimeTotalMinutes": 36032,
   "allTimeActiveDays": 141,
-  "generatedAt": "2026-06-01T06:45:22.635Z",
+  "generatedAt": "2026-06-01T07:00:47.271Z",
   "views": 43,
   "userId": "696b854d96fb46e630ea609b"
 }
