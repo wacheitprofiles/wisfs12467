@@ -6,15 +6,19 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 12670,
-  "activeDays": 50,
-  "todayMinutes": 0,
-  "todayEditor": null,
-  "todayEditors": [],
-  "todaySites": [],
+  "totalFocusMinutes": 12671,
+  "activeDays": 51,
+  "todayMinutes": 1,
+  "todayEditor": "Antigravity IDE",
+  "todayEditors": [
+    "Antigravity IDE"
+  ],
+  "todaySites": [
+    "chatgpt.com"
+  ],
   "todayLanguages": [],
   "last7DaysAverage": 115,
-  "percentChange": -100,
+  "percentChange": -99,
   "last54Days": [
     {
       "date": "2026-04-10",
@@ -230,10 +234,10 @@
     },
     {
       "date": "2026-06-02",
-      "minutes": 0
+      "minutes": 1
     }
   ],
-  "consistencyScore": 93,
+  "consistencyScore": 94,
   "currentRankIndex": 12,
   "currentRank": {
     "name": "ENTROPY",
@@ -268,9 +272,9 @@
       "totalSeconds": 48615
     }
   ],
-  "allTimeTotalMinutes": 36063,
-  "allTimeActiveDays": 141,
-  "generatedAt": "2026-06-01T18:30:34.446Z",
+  "allTimeTotalMinutes": 36065,
+  "allTimeActiveDays": 142,
+  "generatedAt": "2026-06-01T18:45:19.913Z",
   "views": 43,
   "userId": "696b854d96fb46e630ea609b"
 }
