@@ -6,35 +6,16 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 12921,
-  "activeDays": 51,
-  "todayMinutes": 35,
-  "todayEditor": "Antigravity IDE",
-  "todayEditors": [
-    "Gemini CLI",
-    "Antigravity IDE"
-  ],
-  "todaySites": [
-    "claude.ai",
-    "chatgpt.com"
-  ],
-  "todayLanguages": [
-    {
-      "name": "javascript react",
-      "totalSeconds": 727
-    },
-    {
-      "name": "javascript",
-      "totalSeconds": 1
-    }
-  ],
-  "last7DaysAverage": 124,
-  "percentChange": -72,
+  "totalFocusMinutes": 12670,
+  "activeDays": 50,
+  "todayMinutes": 0,
+  "todayEditor": null,
+  "todayEditors": [],
+  "todaySites": [],
+  "todayLanguages": [],
+  "last7DaysAverage": 115,
+  "percentChange": -100,
   "last54Days": [
-    {
-      "date": "2026-04-09",
-      "minutes": 257
-    },
     {
       "date": "2026-04-10",
       "minutes": 474
@@ -245,10 +226,14 @@
     },
     {
       "date": "2026-06-01",
-      "minutes": 35
+      "minutes": 41
+    },
+    {
+      "date": "2026-06-02",
+      "minutes": 0
     }
   ],
-  "consistencyScore": 94,
+  "consistencyScore": 93,
   "currentRankIndex": 12,
   "currentRank": {
     "name": "ENTROPY",
@@ -260,7 +245,7 @@
     "sub": "II",
     "threshold": 13200
   },
-  "rankProgress": 88,
+  "rankProgress": 78,
   "topLanguages": [
     {
       "name": "javascript react",
@@ -272,7 +257,7 @@
     },
     {
       "name": "JavaScript",
-      "totalSeconds": 72930
+      "totalSeconds": 71926
     },
     {
       "name": "javascriptreact",
@@ -280,12 +265,12 @@
     },
     {
       "name": "TypeScript",
-      "totalSeconds": 50480
+      "totalSeconds": 48615
     }
   ],
-  "allTimeTotalMinutes": 36058,
+  "allTimeTotalMinutes": 36063,
   "allTimeActiveDays": 141,
-  "generatedAt": "2026-06-01T18:15:20.340Z",
+  "generatedAt": "2026-06-01T18:30:34.446Z",
   "views": 43,
   "userId": "696b854d96fb46e630ea609b"
 }
