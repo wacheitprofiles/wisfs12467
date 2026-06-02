@@ -6,35 +6,16 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 12877,
-  "activeDays": 51,
-  "todayMinutes": 207,
-  "todayEditor": "Antigravity IDE",
-  "todayEditors": [
-    "Gemini CLI",
-    "Antigravity IDE"
-  ],
-  "todaySites": [
-    "chatgpt.com",
-    "claude.ai"
-  ],
-  "todayLanguages": [
-    {
-      "name": "javascript",
-      "totalSeconds": 6815
-    },
-    {
-      "name": "javascript react",
-      "totalSeconds": 3040
-    }
-  ],
-  "last7DaysAverage": 115,
-  "percentChange": 80,
+  "totalFocusMinutes": 12404,
+  "activeDays": 50,
+  "todayMinutes": 0,
+  "todayEditor": null,
+  "todayEditors": [],
+  "todaySites": [],
+  "todayLanguages": [],
+  "last7DaysAverage": 127,
+  "percentChange": -100,
   "last54Days": [
-    {
-      "date": "2026-04-10",
-      "minutes": 474
-    },
     {
       "date": "2026-04-11",
       "minutes": 205
@@ -245,10 +226,14 @@
     },
     {
       "date": "2026-06-02",
-      "minutes": 207
+      "minutes": 208
+    },
+    {
+      "date": "2026-06-03",
+      "minutes": 0
     }
   ],
-  "consistencyScore": 94,
+  "consistencyScore": 93,
   "currentRankIndex": 12,
   "currentRank": {
     "name": "ENTROPY",
@@ -260,7 +245,7 @@
     "sub": "II",
     "threshold": 13200
   },
-  "rankProgress": 87,
+  "rankProgress": 67,
   "topLanguages": [
     {
       "name": "javascript react",
@@ -268,24 +253,24 @@
     },
     {
       "name": "javascript",
-      "totalSeconds": 82419
+      "totalSeconds": 81824
     },
     {
       "name": "JavaScript",
-      "totalSeconds": 71926
+      "totalSeconds": 71882
     },
     {
       "name": "javascriptreact",
-      "totalSeconds": 65464
+      "totalSeconds": 61324
     },
     {
       "name": "TypeScript",
-      "totalSeconds": 48615
+      "totalSeconds": 44273
     }
   ],
   "allTimeTotalMinutes": 36271,
   "allTimeActiveDays": 142,
-  "generatedAt": "2026-06-02T18:15:23.011Z",
+  "generatedAt": "2026-06-02T18:30:35.799Z",
   "views": 43,
   "userId": "696b854d96fb46e630ea609b"
 }
