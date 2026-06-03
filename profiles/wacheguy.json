@@ -4,11 +4,11 @@
   "avatar": 2,
   "isPaid": 1,
   "createdAt": "2026-01-01T05:00:00.245Z",
-  "timezone": "Asia/Kolkata",
-  "region": "Asia/Kolkata",
-  "totalFocusMinutes": 12423,
+  "timezone": "Asia/Calcutta",
+  "region": "Asia/Calcutta",
+  "totalFocusMinutes": 12428,
   "activeDays": 51,
-  "todayMinutes": 19,
+  "todayMinutes": 24,
   "todayEditor": "Antigravity IDE",
   "todayEditors": [
     "Antigravity IDE"
@@ -19,11 +19,11 @@
   "todayLanguages": [
     {
       "name": "javascript",
-      "totalSeconds": 69
+      "totalSeconds": 416
     }
   ],
   "last7DaysAverage": 127,
-  "percentChange": -85,
+  "percentChange": -81,
   "last54Days": [
     {
       "date": "2026-04-11",
@@ -239,7 +239,7 @@
     },
     {
       "date": "2026-06-03",
-      "minutes": 19
+      "minutes": 24
     }
   ],
   "consistencyScore": 94,
@@ -262,7 +262,7 @@
     },
     {
       "name": "javascript",
-      "totalSeconds": 81893
+      "totalSeconds": 82240
     },
     {
       "name": "JavaScript",
@@ -277,9 +277,9 @@
       "totalSeconds": 44273
     }
   ],
-  "allTimeTotalMinutes": 36290,
+  "allTimeTotalMinutes": 36296,
   "allTimeActiveDays": 143,
-  "generatedAt": "2026-06-03T08:30:37.299Z",
+  "generatedAt": "2026-06-03T08:45:22.786Z",
   "views": 43,
   "userId": "696b854d96fb46e630ea609b"
 }
