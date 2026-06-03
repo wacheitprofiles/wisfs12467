@@ -2,13 +2,13 @@
   "username": "Bhanu4417",
   "bio": "Consistency Builded Me",
   "avatar": 2,
-  "isPaid": 1,
+  "isPaid": 0,
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 12477,
-  "activeDays": 51,
-  "todayMinutes": 73,
+  "totalFocusMinutes": 2354,
+  "activeDays": 14,
+  "todayMinutes": 81,
   "todayEditor": "Antigravity IDE",
   "todayEditors": [
     "Gemini CLI",
@@ -26,168 +26,8 @@
     }
   ],
   "last7DaysAverage": 127,
-  "percentChange": -43,
+  "percentChange": -36,
   "last54Days": [
-    {
-      "date": "2026-04-11",
-      "minutes": 205
-    },
-    {
-      "date": "2026-04-12",
-      "minutes": 254
-    },
-    {
-      "date": "2026-04-13",
-      "minutes": 111
-    },
-    {
-      "date": "2026-04-14",
-      "minutes": 253
-    },
-    {
-      "date": "2026-04-15",
-      "minutes": 39
-    },
-    {
-      "date": "2026-04-16",
-      "minutes": 225
-    },
-    {
-      "date": "2026-04-17",
-      "minutes": 214
-    },
-    {
-      "date": "2026-04-18",
-      "minutes": 70
-    },
-    {
-      "date": "2026-04-19",
-      "minutes": 346
-    },
-    {
-      "date": "2026-04-20",
-      "minutes": 159
-    },
-    {
-      "date": "2026-04-21",
-      "minutes": 22
-    },
-    {
-      "date": "2026-04-22",
-      "minutes": 456
-    },
-    {
-      "date": "2026-04-23",
-      "minutes": 119
-    },
-    {
-      "date": "2026-04-24",
-      "minutes": 535
-    },
-    {
-      "date": "2026-04-25",
-      "minutes": 325
-    },
-    {
-      "date": "2026-04-26",
-      "minutes": 335
-    },
-    {
-      "date": "2026-04-27",
-      "minutes": 439
-    },
-    {
-      "date": "2026-04-28",
-      "minutes": 196
-    },
-    {
-      "date": "2026-04-29",
-      "minutes": 527
-    },
-    {
-      "date": "2026-04-30",
-      "minutes": 544
-    },
-    {
-      "date": "2026-05-01",
-      "minutes": 999
-    },
-    {
-      "date": "2026-05-02",
-      "minutes": 504
-    },
-    {
-      "date": "2026-05-03",
-      "minutes": 346
-    },
-    {
-      "date": "2026-05-04",
-      "minutes": 56
-    },
-    {
-      "date": "2026-05-05",
-      "minutes": 617
-    },
-    {
-      "date": "2026-05-06",
-      "minutes": 255
-    },
-    {
-      "date": "2026-05-07",
-      "minutes": 109
-    },
-    {
-      "date": "2026-05-08",
-      "minutes": 63
-    },
-    {
-      "date": "2026-05-09",
-      "minutes": 223
-    },
-    {
-      "date": "2026-05-10",
-      "minutes": 74
-    },
-    {
-      "date": "2026-05-11",
-      "minutes": 0
-    },
-    {
-      "date": "2026-05-12",
-      "minutes": 0
-    },
-    {
-      "date": "2026-05-13",
-      "minutes": 0
-    },
-    {
-      "date": "2026-05-14",
-      "minutes": 461
-    },
-    {
-      "date": "2026-05-15",
-      "minutes": 97
-    },
-    {
-      "date": "2026-05-16",
-      "minutes": 213
-    },
-    {
-      "date": "2026-05-17",
-      "minutes": 23
-    },
-    {
-      "date": "2026-05-18",
-      "minutes": 380
-    },
-    {
-      "date": "2026-05-19",
-      "minutes": 122
-    },
-    {
-      "date": "2026-05-20",
-      "minutes": 215
-    },
     {
       "date": "2026-05-21",
       "minutes": 357
@@ -242,47 +82,18 @@
     },
     {
       "date": "2026-06-03",
-      "minutes": 73
+      "minutes": 81
     }
   ],
-  "consistencyScore": 94,
-  "currentRankIndex": 12,
-  "currentRank": {
-    "name": "ENTROPY",
-    "sub": "I",
-    "threshold": 10800
-  },
-  "nextRank": {
-    "name": "ENTROPY",
-    "sub": "II",
-    "threshold": 13200
-  },
-  "rankProgress": 70,
-  "topLanguages": [
-    {
-      "name": "javascript react",
-      "totalSeconds": 88541
-    },
-    {
-      "name": "javascript",
-      "totalSeconds": 84296
-    },
-    {
-      "name": "JavaScript",
-      "totalSeconds": 71882
-    },
-    {
-      "name": "javascriptreact",
-      "totalSeconds": 61324
-    },
-    {
-      "name": "TypeScript",
-      "totalSeconds": 44273
-    }
-  ],
-  "allTimeTotalMinutes": 36345,
-  "allTimeActiveDays": 143,
-  "generatedAt": "2026-06-03T16:45:22.095Z",
+  "consistencyScore": null,
+  "currentRankIndex": null,
+  "currentRank": null,
+  "nextRank": null,
+  "rankProgress": null,
+  "topLanguages": [],
+  "allTimeTotalMinutes": null,
+  "allTimeActiveDays": null,
+  "generatedAt": "2026-06-03T17:00:45.446Z",
   "views": 43,
   "userId": "696b854d96fb46e630ea609b"
 }
