@@ -6,9 +6,9 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 12368,
+  "totalFocusMinutes": 12369,
   "activeDays": 51,
-  "todayMinutes": 30,
+  "todayMinutes": 31,
   "todayEditor": "Antigravity IDE",
   "todayEditors": [
     "Antigravity IDE"
@@ -16,11 +16,12 @@
   "todaySites": [
     "claude.ai",
     "figma.com",
-    "chatgpt.com"
+    "chatgpt.com",
+    "tldraw.com"
   ],
   "todayLanguages": [],
   "last7DaysAverage": 129,
-  "percentChange": -77,
+  "percentChange": -76,
   "last54Days": [
     {
       "date": "2026-04-12",
@@ -236,7 +237,7 @@
     },
     {
       "date": "2026-06-04",
-      "minutes": 30
+      "minutes": 31
     }
   ],
   "consistencyScore": 94,
@@ -276,7 +277,7 @@
   ],
   "allTimeTotalMinutes": 36442,
   "allTimeActiveDays": 144,
-  "generatedAt": "2026-06-04T04:30:34.388Z",
+  "generatedAt": "2026-06-04T04:45:22.609Z",
   "views": 43,
   "userId": "696b854d96fb46e630ea609b"
 }
