@@ -6,13 +6,15 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 12425,
+  "totalFocusMinutes": 12436,
   "activeDays": 51,
-  "todayMinutes": 87,
-  "todayEditor": "Antigravity IDE",
+  "todayMinutes": 98,
+  "todayEditor": "VS Code",
   "todayEditors": [
     "Codex CLI",
-    "Antigravity IDE"
+    "Antigravity IDE",
+    "VS Code",
+    "Cursor"
   ],
   "todaySites": [
     "claude.ai",
@@ -20,9 +22,14 @@
     "chatgpt.com",
     "tldraw.com"
   ],
-  "todayLanguages": [],
+  "todayLanguages": [
+    {
+      "name": "javascript",
+      "totalSeconds": 52
+    }
+  ],
   "last7DaysAverage": 129,
-  "percentChange": -33,
+  "percentChange": -24,
   "last54Days": [
     {
       "date": "2026-04-12",
@@ -238,7 +245,7 @@
     },
     {
       "date": "2026-06-04",
-      "minutes": 87
+      "minutes": 98
     }
   ],
   "consistencyScore": 94,
@@ -261,7 +268,7 @@
     },
     {
       "name": "javascript",
-      "totalSeconds": 84296
+      "totalSeconds": 84348
     },
     {
       "name": "JavaScript",
@@ -276,9 +283,9 @@
       "totalSeconds": 41601
     }
   ],
-  "allTimeTotalMinutes": 36499,
+  "allTimeTotalMinutes": 36509,
   "allTimeActiveDays": 144,
-  "generatedAt": "2026-06-04T06:45:23.052Z",
+  "generatedAt": "2026-06-04T07:00:47.131Z",
   "views": 43,
   "userId": "696b854d96fb46e630ea609b"
 }
