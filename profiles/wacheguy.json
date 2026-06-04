@@ -12,6 +12,7 @@
   "todayEditor": "Antigravity IDE",
   "todayEditors": [
     "Codex CLI",
+    "Claude CLI",
     "Antigravity IDE",
     "VS Code",
     "Cursor"
@@ -285,7 +286,7 @@
   ],
   "allTimeTotalMinutes": 36512,
   "allTimeActiveDays": 144,
-  "generatedAt": "2026-06-04T13:30:42.982Z",
+  "generatedAt": "2026-06-04T13:45:23.267Z",
   "views": 43,
   "userId": "696b854d96fb46e630ea609b"
 }
