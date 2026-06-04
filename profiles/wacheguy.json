@@ -9,7 +9,7 @@
   "totalFocusMinutes": 12436,
   "activeDays": 51,
   "todayMinutes": 98,
-  "todayEditor": "VS Code",
+  "todayEditor": "Antigravity IDE",
   "todayEditors": [
     "Codex CLI",
     "Antigravity IDE",
@@ -285,7 +285,7 @@
   ],
   "allTimeTotalMinutes": 36510,
   "allTimeActiveDays": 144,
-  "generatedAt": "2026-06-04T07:30:37.928Z",
+  "generatedAt": "2026-06-04T07:45:23.400Z",
   "views": 43,
   "userId": "696b854d96fb46e630ea609b"
 }
