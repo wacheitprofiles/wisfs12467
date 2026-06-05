@@ -9,12 +9,19 @@
   "totalFocusMinutes": 12299,
   "activeDays": 51,
   "todayMinutes": 2,
-  "todayEditors": [],
+  "todayEditors": [
+    "Gemini CLI"
+  ],
   "todaySites": [
     "claude.ai",
     "chatgpt.com"
   ],
-  "todayLanguages": [],
+  "todayLanguages": [
+    {
+      "name": "javascript",
+      "totalSeconds": 1
+    }
+  ],
   "last7DaysAverage": 136,
   "percentChange": -99,
   "last54Days": [
@@ -255,7 +262,7 @@
     },
     {
       "name": "javascript",
-      "totalSeconds": 83204
+      "totalSeconds": 83205
     },
     {
       "name": "JavaScript",
@@ -272,7 +279,7 @@
   ],
   "allTimeTotalMinutes": 36738,
   "allTimeActiveDays": 146,
-  "generatedAt": "2026-06-05T19:00:47.424Z",
+  "generatedAt": "2026-06-05T19:15:23.148Z",
   "views": 44,
   "userId": "696b854d96fb46e630ea609b"
 }
