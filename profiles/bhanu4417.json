@@ -6,16 +6,24 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 12412,
-  "activeDays": 50,
-  "todayMinutes": 0,
-  "todayEditors": [],
+  "totalFocusMinutes": 12428,
+  "activeDays": 51,
+  "todayMinutes": 16,
+  "todayEditor": "Antigravity IDE",
+  "todayEditors": [
+    "Antigravity IDE"
+  ],
   "todaySites": [
     "chatgpt.com"
   ],
-  "todayLanguages": [],
+  "todayLanguages": [
+    {
+      "name": "typescript",
+      "totalSeconds": 891
+    }
+  ],
   "last7DaysAverage": 166,
-  "percentChange": -100,
+  "percentChange": -90,
   "last54Days": [
     {
       "date": "2026-04-15",
@@ -231,10 +239,10 @@
     },
     {
       "date": "2026-06-07",
-      "minutes": 0
+      "minutes": 16
     }
   ],
-  "consistencyScore": 93,
+  "consistencyScore": 94,
   "currentRankIndex": 12,
   "currentRank": {
     "name": "ENTROPY",
@@ -246,7 +254,7 @@
     "sub": "II",
     "threshold": 13200
   },
-  "rankProgress": 67,
+  "rankProgress": 68,
   "topLanguages": [
     {
       "name": "javascript react",
@@ -269,9 +277,9 @@
       "totalSeconds": 40392
     }
   ],
-  "allTimeTotalMinutes": 37105,
+  "allTimeTotalMinutes": 37120,
   "allTimeActiveDays": 147,
-  "generatedAt": "2026-06-06T18:32:21.043Z",
+  "generatedAt": "2026-06-06T18:43:01.864Z",
   "views": 46,
   "userId": "696b854d96fb46e630ea609b"
 }
