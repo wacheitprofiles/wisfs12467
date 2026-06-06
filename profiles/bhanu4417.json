@@ -6,25 +6,49 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 12428,
+  "totalFocusMinutes": 12665,
   "activeDays": 51,
-  "todayMinutes": 16,
+  "todayMinutes": 368,
   "todayEditor": "Antigravity IDE",
   "todayEditors": [
+    "Gemini CLI",
     "Antigravity IDE"
   ],
   "todaySites": [
-    "chatgpt.com"
+    "claude.ai",
+    "chatgpt.com",
+    "figma.com",
+    "tldraw.com"
   ],
   "todayLanguages": [
     {
       "name": "typescript",
-      "totalSeconds": 891
+      "totalSeconds": 6836
+    },
+    {
+      "name": "ignore",
+      "totalSeconds": 5586
+    },
+    {
+      "name": "javascript",
+      "totalSeconds": 4497
+    },
+    {
+      "name": "javascript react",
+      "totalSeconds": 2381
+    },
+    {
+      "name": "json",
+      "totalSeconds": 746
     }
   ],
-  "last7DaysAverage": 166,
-  "percentChange": -90,
+  "last7DaysAverage": 136,
+  "percentChange": 171,
   "last54Days": [
+    {
+      "date": "2026-04-14",
+      "minutes": 253
+    },
     {
       "date": "2026-04-15",
       "minutes": 39
@@ -236,10 +260,6 @@
     {
       "date": "2026-06-06",
       "minutes": 368
-    },
-    {
-      "date": "2026-06-07",
-      "minutes": 16
     }
   ],
   "consistencyScore": 94,
@@ -254,7 +274,7 @@
     "sub": "II",
     "threshold": 13200
   },
-  "rankProgress": 68,
+  "rankProgress": 78,
   "topLanguages": [
     {
       "name": "javascript react",
@@ -262,24 +282,24 @@
     },
     {
       "name": "javascript",
-      "totalSeconds": 87641
+      "totalSeconds": 87701
     },
     {
       "name": "JavaScript",
-      "totalSeconds": 67929
+      "totalSeconds": 69912
     },
     {
       "name": "javascriptreact",
-      "totalSeconds": 48279
+      "totalSeconds": 49924
     },
     {
       "name": "TypeScript",
-      "totalSeconds": 40392
+      "totalSeconds": 40745
     }
   ],
-  "allTimeTotalMinutes": 37120,
-  "allTimeActiveDays": 147,
-  "generatedAt": "2026-06-06T18:43:15.017Z",
+  "allTimeTotalMinutes": 37104,
+  "allTimeActiveDays": 146,
+  "generatedAt": "2026-06-06T23:58:00+05:30",
   "views": 46,
   "userId": "696b854d96fb46e630ea609b"
 }
