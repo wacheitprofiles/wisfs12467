@@ -24,6 +24,10 @@
       "totalSeconds": 992
     },
     {
+      "name": "c",
+      "totalSeconds": 2
+    },
+    {
       "name": "javascript",
       "totalSeconds": 1
     }
@@ -285,7 +289,7 @@
   ],
   "allTimeTotalMinutes": 36768,
   "allTimeActiveDays": 146,
-  "generatedAt": "2026-06-06T06:00:46.388Z",
+  "generatedAt": "2026-06-06T06:15:22.291Z",
   "views": 45,
   "userId": "696b854d96fb46e630ea609b"
 }
