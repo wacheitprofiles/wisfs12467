@@ -6,9 +6,9 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 12382,
+  "totalFocusMinutes": 12383,
   "activeDays": 51,
-  "todayMinutes": 85,
+  "todayMinutes": 86,
   "todayEditor": "Antigravity IDE",
   "todayEditors": [
     "Gemini CLI",
@@ -17,7 +17,8 @@
   "todaySites": [
     "claude.ai",
     "chatgpt.com",
-    "figma.com"
+    "figma.com",
+    "tldraw.com"
   ],
   "todayLanguages": [
     {
@@ -254,7 +255,7 @@
     },
     {
       "date": "2026-06-06",
-      "minutes": 85
+      "minutes": 86
     }
   ],
   "consistencyScore": 94,
@@ -292,9 +293,9 @@
       "totalSeconds": 40745
     }
   ],
-  "allTimeTotalMinutes": 36820,
+  "allTimeTotalMinutes": 36821,
   "allTimeActiveDays": 146,
-  "generatedAt": "2026-06-06T08:30:34.621Z",
+  "generatedAt": "2026-06-06T08:45:22.693Z",
   "views": 45,
   "userId": "696b854d96fb46e630ea609b"
 }
