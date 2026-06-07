@@ -1,0 +1,87 @@
+{
+  "username": "dexxxx",
+  "bio": "Just a developer",
+  "avatar": 3,
+  "isPaid": 0,
+  "createdAt": "2026-06-04T16:34:57.595Z",
+  "timezone": "Asia/Calcutta",
+  "region": "Asia/Calcutta",
+  "totalFocusMinutes": 0,
+  "activeDays": 0,
+  "todayMinutes": 0,
+  "todayEditor": null,
+  "todayEditors": [],
+  "todaySites": [],
+  "todayLanguages": [],
+  "last7DaysAverage": 0,
+  "percentChange": 0,
+  "last54Days": [
+    {
+      "date": "2026-05-25",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-26",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-27",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-28",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-29",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-30",
+      "minutes": 0
+    },
+    {
+      "date": "2026-05-31",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-01",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-02",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-03",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-04",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-05",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-06",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-07",
+      "minutes": 0
+    }
+  ],
+  "consistencyScore": null,
+  "currentRankIndex": null,
+  "currentRank": null,
+  "nextRank": null,
+  "rankProgress": null,
+  "topLanguages": [],
+  "allTimeTotalMinutes": null,
+  "allTimeActiveDays": null,
+  "generatedAt": "2026-06-07T05:02:04.006Z",
+  "views": 0,
+  "userId": "6a21a931658ebcf75988a098"
+}
