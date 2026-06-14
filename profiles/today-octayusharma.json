@@ -1,0 +1,87 @@
+{
+  "username": "oct_ayusharma",
+  "bio": "Sys Admin",
+  "avatar": 5,
+  "isPaid": 0,
+  "createdAt": "2026-04-27T05:33:48.820Z",
+  "timezone": "Asia/Calcutta",
+  "region": "Asia/Calcutta",
+  "totalFocusMinutes": 162,
+  "activeDays": 5,
+  "todayMinutes": 0,
+  "todayEditor": null,
+  "todayEditors": [],
+  "todaySites": [],
+  "todayLanguages": [],
+  "last7DaysAverage": 0,
+  "percentChange": 0,
+  "last54Days": [
+    {
+      "date": "2026-06-01",
+      "minutes": 33
+    },
+    {
+      "date": "2026-06-02",
+      "minutes": 35
+    },
+    {
+      "date": "2026-06-03",
+      "minutes": 44
+    },
+    {
+      "date": "2026-06-04",
+      "minutes": 25
+    },
+    {
+      "date": "2026-06-05",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-06",
+      "minutes": 25
+    },
+    {
+      "date": "2026-06-07",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-08",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-09",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-10",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-11",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-12",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-13",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-14",
+      "minutes": 0
+    }
+  ],
+  "consistencyScore": null,
+  "currentRankIndex": null,
+  "currentRank": null,
+  "nextRank": null,
+  "rankProgress": null,
+  "topLanguages": [],
+  "allTimeTotalMinutes": null,
+  "allTimeActiveDays": null,
+  "generatedAt": "2026-06-14T11:47:24.508Z",
+  "views": 1,
+  "userId": "69eef53c6b212800a6bbd68e"
+}
