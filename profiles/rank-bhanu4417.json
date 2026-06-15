@@ -1,0 +1,24 @@
+{
+  "type": "rank",
+  "username": "Bhanu4417",
+  "avatar": 2,
+  "equippedQuestName": "75 Day Hard Core",
+  "isPaid": 1,
+  "upgradeData": {
+    "oldRank": {
+      "name": "TENSOR",
+      "sub": "III",
+      "dark": "#c4a5ff",
+      "light": "#7c3aed"
+    },
+    "newRank": {
+      "name": "ENTROPY",
+      "sub": "I",
+      "dark": "#ffb347",
+      "light": "#ea580c"
+    }
+  },
+  "totalMinutes": 12175,
+  "generatedAt": "2026-06-15T17:51:34.699Z",
+  "userId": "696b854d96fb46e630ea609b"
+}
