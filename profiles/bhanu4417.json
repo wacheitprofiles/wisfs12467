@@ -6,32 +6,30 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 11947,
+  "totalFocusMinutes": 11542,
   "activeDays": 48,
-  "todayMinutes": 0,
-  "todayEditor": null,
-  "todayEditors": [],
-  "todaySites": [],
-  "todayLanguages": [],
-  "last7DaysAverage": 111,
-  "percentChange": -100,
+  "todayMinutes": 108,
+  "todayEditor": "Antigravity IDE",
+  "todayEditors": [
+    "Antigravity IDE",
+    "Gemini CLI",
+    "Codex CLI"
+  ],
+  "todaySites": [
+    "chatgpt.com",
+    "figma.com",
+    "tldraw.com",
+    "claude.ai"
+  ],
+  "todayLanguages": [
+    {
+      "name": "typescript react",
+      "totalSeconds": 1610
+    }
+  ],
+  "last7DaysAverage": 68,
+  "percentChange": 59,
   "last54Days": [
-    {
-      "date": "2026-04-19",
-      "minutes": 346
-    },
-    {
-      "date": "2026-04-20",
-      "minutes": 159
-    },
-    {
-      "date": "2026-04-21",
-      "minutes": 22
-    },
-    {
-      "date": "2026-04-22",
-      "minutes": 456
-    },
     {
       "date": "2026-04-23",
       "minutes": 119
@@ -231,6 +229,22 @@
     {
       "date": "2026-06-11",
       "minutes": 0
+    },
+    {
+      "date": "2026-06-12",
+      "minutes": 84
+    },
+    {
+      "date": "2026-06-13",
+      "minutes": 83
+    },
+    {
+      "date": "2026-06-14",
+      "minutes": 303
+    },
+    {
+      "date": "2026-06-15",
+      "minutes": 108
     }
   ],
   "consistencyScore": 89,
@@ -245,32 +259,32 @@
     "sub": "II",
     "threshold": 13200
   },
-  "rankProgress": 48,
+  "rankProgress": 31,
   "topLanguages": [
     {
       "name": "javascript react",
-      "totalSeconds": 100276
+      "totalSeconds": 106346
     },
     {
       "name": "javascript",
-      "totalSeconds": 87591
+      "totalSeconds": 85011
     },
     {
       "name": "JavaScript",
-      "totalSeconds": 59904
+      "totalSeconds": 55819
     },
     {
       "name": "javascriptreact",
-      "totalSeconds": 48279
+      "totalSeconds": 48002
     },
     {
-      "name": "TypeScript",
-      "totalSeconds": 35737
+      "name": "Other",
+      "totalSeconds": 29756
     }
   ],
-  "allTimeTotalMinutes": 37188,
-  "allTimeActiveDays": 149,
-  "generatedAt": "2026-06-11T11:42:36.666Z",
+  "allTimeTotalMinutes": 37767,
+  "allTimeActiveDays": 153,
+  "generatedAt": "2026-06-15T06:48:49.107Z",
   "views": 47,
   "userId": "696b854d96fb46e630ea609b"
 }
