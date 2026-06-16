@@ -6,34 +6,26 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 11542,
+  "totalFocusMinutes": 11636,
   "activeDays": 48,
-  "todayMinutes": 108,
+  "todayMinutes": 11,
   "todayEditor": "Antigravity IDE",
   "todayEditors": [
     "Antigravity IDE",
-    "Gemini CLI",
-    "Codex CLI"
+    "Gemini CLI"
   ],
   "todaySites": [
-    "chatgpt.com",
-    "figma.com",
-    "tldraw.com",
     "claude.ai"
   ],
   "todayLanguages": [
     {
-      "name": "typescript react",
-      "totalSeconds": 1610
+      "name": "javascript react",
+      "totalSeconds": 162
     }
   ],
-  "last7DaysAverage": 68,
-  "percentChange": 59,
+  "last7DaysAverage": 112,
+  "percentChange": -90,
   "last54Days": [
-    {
-      "date": "2026-04-23",
-      "minutes": 119
-    },
     {
       "date": "2026-04-24",
       "minutes": 535
@@ -244,7 +236,11 @@
     },
     {
       "date": "2026-06-15",
-      "minutes": 108
+      "minutes": 310
+    },
+    {
+      "date": "2026-06-16",
+      "minutes": 11
     }
   ],
   "consistencyScore": 89,
@@ -259,15 +255,15 @@
     "sub": "II",
     "threshold": 13200
   },
-  "rankProgress": 31,
+  "rankProgress": 35,
   "topLanguages": [
     {
       "name": "javascript react",
-      "totalSeconds": 106346
+      "totalSeconds": 109190
     },
     {
       "name": "javascript",
-      "totalSeconds": 85011
+      "totalSeconds": 82731
     },
     {
       "name": "JavaScript",
@@ -275,16 +271,16 @@
     },
     {
       "name": "javascriptreact",
-      "totalSeconds": 48002
+      "totalSeconds": 43210
     },
     {
-      "name": "Other",
-      "totalSeconds": 29756
+      "name": "typescript react",
+      "totalSeconds": 30467
     }
   ],
-  "allTimeTotalMinutes": 37767,
-  "allTimeActiveDays": 153,
-  "generatedAt": "2026-06-15T06:48:49.107Z",
+  "allTimeTotalMinutes": 37981,
+  "allTimeActiveDays": 154,
+  "generatedAt": "2026-06-16T04:26:42.557Z",
   "views": 47,
   "userId": "696b854d96fb46e630ea609b"
 }
