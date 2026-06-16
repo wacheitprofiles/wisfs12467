@@ -6,25 +6,35 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 11651,
+  "totalFocusMinutes": 11672,
   "activeDays": 48,
-  "todayMinutes": 26,
+  "todayMinutes": 47,
   "todayEditor": "Antigravity IDE",
   "todayEditors": [
     "Antigravity IDE",
-    "Gemini CLI"
+    "Gemini CLI",
+    "VS Code"
   ],
   "todaySites": [
-    "claude.ai"
+    "claude.ai",
+    "chatgpt.com"
   ],
   "todayLanguages": [
     {
       "name": "javascript react",
-      "totalSeconds": 954
+      "totalSeconds": 1516
+    },
+    {
+      "name": "javascript",
+      "totalSeconds": 496
+    },
+    {
+      "name": "cpp",
+      "totalSeconds": 1
     }
   ],
   "last7DaysAverage": 112,
-  "percentChange": -77,
+  "percentChange": -58,
   "last54Days": [
     {
       "date": "2026-04-24",
@@ -240,7 +250,7 @@
     },
     {
       "date": "2026-06-16",
-      "minutes": 26
+      "minutes": 47
     }
   ],
   "consistencyScore": 89,
@@ -255,15 +265,15 @@
     "sub": "II",
     "threshold": 13200
   },
-  "rankProgress": 35,
+  "rankProgress": 36,
   "topLanguages": [
     {
       "name": "javascript react",
-      "totalSeconds": 109982
+      "totalSeconds": 110544
     },
     {
       "name": "javascript",
-      "totalSeconds": 82731
+      "totalSeconds": 83227
     },
     {
       "name": "JavaScript",
@@ -278,9 +288,9 @@
       "totalSeconds": 30467
     }
   ],
-  "allTimeTotalMinutes": 37996,
+  "allTimeTotalMinutes": 38017,
   "allTimeActiveDays": 154,
-  "generatedAt": "2026-06-16T04:36:28.169Z",
+  "generatedAt": "2026-06-16T13:46:44.548Z",
   "views": 47,
   "userId": "696b854d96fb46e630ea609b"
 }
