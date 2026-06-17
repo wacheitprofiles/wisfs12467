@@ -6,14 +6,13 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 11672,
+  "totalFocusMinutes": 11555,
   "activeDays": 48,
-  "todayMinutes": 47,
-  "todayEditor": "Antigravity IDE",
+  "todayMinutes": 292,
+  "todayEditor": "VS Code",
   "todayEditors": [
-    "Antigravity IDE",
-    "Gemini CLI",
-    "VS Code"
+    "VS Code",
+    "Antigravity IDE"
   ],
   "todaySites": [
     "claude.ai",
@@ -21,25 +20,29 @@
   ],
   "todayLanguages": [
     {
-      "name": "javascript react",
-      "totalSeconds": 1516
+      "name": "typescript react",
+      "totalSeconds": 8392
+    },
+    {
+      "name": "typescript",
+      "totalSeconds": 2409
+    },
+    {
+      "name": "dotenv",
+      "totalSeconds": 1375
+    },
+    {
+      "name": "css",
+      "totalSeconds": 429
     },
     {
       "name": "javascript",
-      "totalSeconds": 496
-    },
-    {
-      "name": "cpp",
-      "totalSeconds": 1
+      "totalSeconds": 101
     }
   ],
-  "last7DaysAverage": 112,
-  "percentChange": -58,
+  "last7DaysAverage": 136,
+  "percentChange": 115,
   "last54Days": [
-    {
-      "date": "2026-04-24",
-      "minutes": 535
-    },
     {
       "date": "2026-04-25",
       "minutes": 325
@@ -250,7 +253,11 @@
     },
     {
       "date": "2026-06-16",
-      "minutes": 47
+      "minutes": 173
+    },
+    {
+      "date": "2026-06-17",
+      "minutes": 292
     }
   ],
   "consistencyScore": 89,
@@ -265,7 +272,7 @@
     "sub": "II",
     "threshold": 13200
   },
-  "rankProgress": 36,
+  "rankProgress": 31,
   "topLanguages": [
     {
       "name": "javascript react",
@@ -273,24 +280,24 @@
     },
     {
       "name": "javascript",
-      "totalSeconds": 83227
+      "totalSeconds": 83267
     },
     {
       "name": "JavaScript",
-      "totalSeconds": 55819
-    },
-    {
-      "name": "javascriptreact",
-      "totalSeconds": 43210
+      "totalSeconds": 51964
     },
     {
       "name": "typescript react",
-      "totalSeconds": 30467
+      "totalSeconds": 42754
+    },
+    {
+      "name": "javascriptreact",
+      "totalSeconds": 37259
     }
   ],
-  "allTimeTotalMinutes": 38017,
-  "allTimeActiveDays": 154,
-  "generatedAt": "2026-06-16T13:46:44.548Z",
+  "allTimeTotalMinutes": 38436,
+  "allTimeActiveDays": 155,
+  "generatedAt": "2026-06-17T17:35:24.380Z",
   "views": 47,
   "userId": "696b854d96fb46e630ea609b"
 }
