@@ -6,129 +6,45 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 12665,
-  "activeDays": 51,
-  "todayMinutes": 368,
+  "totalFocusMinutes": 7726,
+  "activeDays": 43,
+  "todayMinutes": 160,
   "todayEditor": "Antigravity IDE",
   "todayEditors": [
-    "Gemini CLI",
+    "VS Code",
     "Antigravity IDE"
   ],
   "todaySites": [
-    "claude.ai",
-    "chatgpt.com",
     "figma.com",
-    "tldraw.com"
+    "tldraw.com",
+    "lovable.dev",
+    "chatgpt.com"
   ],
   "todayLanguages": [
     {
-      "name": "typescript",
-      "totalSeconds": 6836
-    },
-    {
-      "name": "ignore",
-      "totalSeconds": 5586
-    },
-    {
-      "name": "javascript",
-      "totalSeconds": 4497
+      "name": "typescript react",
+      "totalSeconds": 5498
     },
     {
       "name": "javascript react",
-      "totalSeconds": 2381
+      "totalSeconds": 633
+    },
+    {
+      "name": "plaintext",
+      "totalSeconds": 595
+    },
+    {
+      "name": "markdown",
+      "totalSeconds": 198
     },
     {
       "name": "json",
-      "totalSeconds": 746
+      "totalSeconds": 166
     }
   ],
-  "last7DaysAverage": 136,
-  "percentChange": 171,
+  "last7DaysAverage": 27,
+  "percentChange": 493,
   "last54Days": [
-    {
-      "date": "2026-04-14",
-      "minutes": 253
-    },
-    {
-      "date": "2026-04-15",
-      "minutes": 39
-    },
-    {
-      "date": "2026-04-16",
-      "minutes": 225
-    },
-    {
-      "date": "2026-04-17",
-      "minutes": 214
-    },
-    {
-      "date": "2026-04-18",
-      "minutes": 70
-    },
-    {
-      "date": "2026-04-19",
-      "minutes": 346
-    },
-    {
-      "date": "2026-04-20",
-      "minutes": 159
-    },
-    {
-      "date": "2026-04-21",
-      "minutes": 22
-    },
-    {
-      "date": "2026-04-22",
-      "minutes": 456
-    },
-    {
-      "date": "2026-04-23",
-      "minutes": 119
-    },
-    {
-      "date": "2026-04-24",
-      "minutes": 535
-    },
-    {
-      "date": "2026-04-25",
-      "minutes": 325
-    },
-    {
-      "date": "2026-04-26",
-      "minutes": 335
-    },
-    {
-      "date": "2026-04-27",
-      "minutes": 439
-    },
-    {
-      "date": "2026-04-28",
-      "minutes": 196
-    },
-    {
-      "date": "2026-04-29",
-      "minutes": 527
-    },
-    {
-      "date": "2026-04-30",
-      "minutes": 544
-    },
-    {
-      "date": "2026-05-01",
-      "minutes": 999
-    },
-    {
-      "date": "2026-05-02",
-      "minutes": 504
-    },
-    {
-      "date": "2026-05-03",
-      "minutes": 346
-    },
-    {
-      "date": "2026-05-04",
-      "minutes": 56
-    },
     {
       "date": "2026-05-05",
       "minutes": 617
@@ -260,46 +176,130 @@
     {
       "date": "2026-06-06",
       "minutes": 368
+    },
+    {
+      "date": "2026-06-07",
+      "minutes": 80
+    },
+    {
+      "date": "2026-06-08",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-09",
+      "minutes": 3
+    },
+    {
+      "date": "2026-06-10",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-11",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-12",
+      "minutes": 84
+    },
+    {
+      "date": "2026-06-13",
+      "minutes": 83
+    },
+    {
+      "date": "2026-06-14",
+      "minutes": 303
+    },
+    {
+      "date": "2026-06-15",
+      "minutes": 310
+    },
+    {
+      "date": "2026-06-16",
+      "minutes": 173
+    },
+    {
+      "date": "2026-06-17",
+      "minutes": 324
+    },
+    {
+      "date": "2026-06-18",
+      "minutes": 18
+    },
+    {
+      "date": "2026-06-19",
+      "minutes": 41
+    },
+    {
+      "date": "2026-06-20",
+      "minutes": 77
+    },
+    {
+      "date": "2026-06-21",
+      "minutes": 114
+    },
+    {
+      "date": "2026-06-22",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-23",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-24",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-25",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-26",
+      "minutes": 0
+    },
+    {
+      "date": "2026-06-27",
+      "minutes": 160
     }
   ],
-  "consistencyScore": 94,
-  "currentRankIndex": 12,
+  "consistencyScore": 80,
+  "currentRankIndex": 10,
   "currentRank": {
-    "name": "ENTROPY",
-    "sub": "I",
-    "threshold": 10800
+    "name": "TENSOR",
+    "sub": "II",
+    "threshold": 6600
   },
   "nextRank": {
-    "name": "ENTROPY",
-    "sub": "II",
-    "threshold": 13200
+    "name": "TENSOR",
+    "sub": "III",
+    "threshold": 8400
   },
-  "rankProgress": 78,
+  "rankProgress": 63,
   "topLanguages": [
     {
       "name": "javascript react",
-      "totalSeconds": 100209
+      "totalSeconds": 113997
     },
     {
       "name": "javascript",
-      "totalSeconds": 87701
+      "totalSeconds": 61526
     },
     {
-      "name": "JavaScript",
-      "totalSeconds": 69912
+      "name": "typescript react",
+      "totalSeconds": 53375
     },
     {
-      "name": "javascriptreact",
-      "totalSeconds": 49924
+      "name": "typescript",
+      "totalSeconds": 16879
     },
     {
-      "name": "TypeScript",
-      "totalSeconds": 40745
+      "name": "json",
+      "totalSeconds": 14925
     }
   ],
-  "allTimeTotalMinutes": 37104,
-  "allTimeActiveDays": 146,
-  "generatedAt": "2026-06-06T23:58:00+05:30",
-  "views": 46,
+  "allTimeTotalMinutes": 38881,
+  "allTimeActiveDays": 160,
+  "generatedAt": "2026-06-27T13:28:31.848Z",
+  "views": 51,
   "userId": "696b854d96fb46e630ea609b"
 }
